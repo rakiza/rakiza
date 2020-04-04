@@ -1,0 +1,3927 @@
+<!--Hadj Ahmed Ghassan ghassannet@gmail.com -->
+<!--XML version -->
+<Wilayas>
+  <Wilaya Code="01" Designation="أدرار">
+    <Dairas>
+      <Daira Code="0101" Designation="أدرار">
+        <Communes>
+          <Commune Code="0101" Designation="أدرار" />
+          <Commune Code="0121" Designation="أولاد أحمد تيمي" />
+          <Commune Code="0122" Designation="بودة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0103" Designation="شروين">
+        <Communes>
+          <Commune Code="0103" Designation="شروين" />
+          <Commune Code="0124" Designation="طالمين" />
+          <Commune Code="0127" Designation="أولاد عيسى" />
+        </Communes>
+      </Daira>
+      <Daira Code="0104" Designation="رقان">
+        <Communes>
+          <Commune Code="0104" Designation="رقان" />
+          <Commune Code="0118" Designation="سالي" />
+        </Communes>
+      </Daira>
+      <Daira Code="0108" Designation="تسابيت">
+        <Communes>
+          <Commune Code="0108" Designation="تسابيت" />
+          <Commune Code="0126" Designation="السبع" />
+        </Communes>
+      </Daira>
+      <Daira Code="0109" Designation="تيميمون">
+        <Communes>
+          <Commune Code="0109" Designation="تيميمون" />
+          <Commune Code="0110" Designation="أولاد السعيد" />
+        </Communes>
+      </Daira>
+      <Daira Code="0111" Designation="زاوية كنتة">
+        <Communes>
+          <Commune Code="0105" Designation="عين زغمير" />
+          <Commune Code="0111" Designation="زاوية كنتة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0112" Designation="أولف">
+        <Communes>
+          <Commune Code="0106" Designation="تيت" />
+          <Commune Code="0112" Designation="أولف" />
+          <Commune Code="0113" Designation="تيمقتن" />
+          <Commune Code="0119" Designation="اقبلي" />
+        </Communes>
+      </Daira>
+      <Daira Code="0115" Designation="فنوغيل">
+        <Communes>
+          <Commune Code="0102" Designation="تامست" />
+          <Commune Code="0114" Designation="تامنطيط" />
+          <Commune Code="0115" Designation="فنوغيل" />
+        </Communes>
+      </Daira>
+      <Daira Code="0116" Designation="تنركوك">
+        <Communes>
+          <Commune Code="0107" Designation="قصر قدور" />
+          <Commune Code="0116" Designation="تنركوك" />
+        </Communes>
+      </Daira>
+      <Daira Code="0123" Designation="أوقروت">
+        <Communes>
+          <Commune Code="0117" Designation="دلدول" />
+          <Commune Code="0120" Designation="المطارفة" />
+          <Commune Code="0123" Designation="أوقروت" />
+        </Communes>
+      </Daira>
+      <Daira Code="0125" Designation="برج باجي مختار">
+        <Communes>
+          <Commune Code="0125" Designation="برج باجي مختار" />
+          <Commune Code="0128" Designation="تيمياوين" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="02" Designation="الشلف">
+    <Dairas>
+      <Daira Code="0201" Designation="الشلف">
+        <Communes>
+          <Commune Code="0201" Designation="الشلف" />
+          <Commune Code="0219" Designation="السنجاس" />
+          <Commune Code="0233" Designation="أم الدروع" />
+        </Communes>
+      </Daira>
+      <Daira Code="0202" Designation="تنس">
+        <Communes>
+          <Commune Code="0202" Designation="تنس" />
+          <Commune Code="0211" Designation="سيدي عكاشة" />
+          <Commune Code="0225" Designation="سيدي عبد الرحمن" />
+        </Communes>
+      </Daira>
+      <Daira Code="0204" Designation="الكريمية">
+        <Communes>
+          <Commune Code="0204" Designation="الكريمية" />
+          <Commune Code="0209" Designation="حرشون" />
+          <Commune Code="0235" Designation="بني بوعتاب" />
+        </Communes>
+      </Daira>
+      <Daira Code="0206" Designation="تاقريت">
+        <Communes>
+          <Commune Code="0206" Designation="تاقريت" />
+          <Commune Code="0217" Designation="الظهر" />
+        </Communes>
+      </Daira>
+      <Daira Code="0207" Designation="بني حواء">
+        <Communes>
+          <Commune Code="0207" Designation="بني حواء" />
+          <Commune Code="0216" Designation="وادي قوسين" />
+          <Commune Code="0234" Designation="بريرة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0210" Designation="أولاد فارس">
+        <Communes>
+          <Commune Code="0210" Designation="أولاد فارس" />
+          <Commune Code="0224" Designation="الشطية" />
+          <Commune Code="0228" Designation="الأبيض مجاجة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0212" Designation="بوقادير">
+        <Communes>
+          <Commune Code="0208" Designation="صبحة" />
+          <Commune Code="0212" Designation="بوقادير" />
+          <Commune Code="0221" Designation="وادي سلي" />
+        </Communes>
+      </Daira>
+      <Daira Code="0220" Designation="الزبوجة">
+        <Communes>
+          <Commune Code="0203" Designation="بنايرية" />
+          <Commune Code="0220" Designation="الزبوجة" />
+          <Commune Code="0231" Designation="بوزغاية" />
+        </Communes>
+      </Daira>
+      <Daira Code="0222" Designation="أبو الحسين">
+        <Communes>
+          <Commune Code="0205" Designation="تاجنة" />
+          <Commune Code="0214" Designation="تلعصة" />
+          <Commune Code="0222" Designation="أبو الحسين" />
+        </Communes>
+      </Daira>
+      <Daira Code="0223" Designation="المرسى">
+        <Communes>
+          <Commune Code="0223" Designation="المرسى" />
+          <Commune Code="0226" Designation="مصدق" />
+        </Communes>
+      </Daira>
+      <Daira Code="0229" Designation="وادي الفضة">
+        <Communes>
+          <Commune Code="0213" Designation="بني راشد" />
+          <Commune Code="0218" Designation="أولاد عباس" />
+          <Commune Code="0229" Designation="وادي الفضة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0230" Designation="أولاد بن عبد القادر">
+        <Communes>
+          <Commune Code="0227" Designation="الحجاج" />
+          <Commune Code="0230" Designation="أولاد بن عبد القادر" />
+        </Communes>
+      </Daira>
+      <Daira Code="0232" Designation="عين مران">
+        <Communes>
+          <Commune Code="0215" Designation="الهرنفة" />
+          <Commune Code="0232" Designation="عين مران" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="03" Designation="الأغواط">
+    <Dairas>
+      <Daira Code="0301" Designation="الأغواط">
+        <Communes>
+          <Commune Code="0301" Designation="الأغواط" />
+        </Communes>
+      </Daira>
+      <Daira Code="0302" Designation="قصر الحيران">
+        <Communes>
+          <Commune Code="0302" Designation="قصر الحيران" />
+          <Commune Code="0303" Designation="بن ناصر بن شهرة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0304" Designation="سيدي مخلوف">
+        <Communes>
+          <Commune Code="0304" Designation="سيدي مخلوف" />
+          <Commune Code="0320" Designation="العسفية" />
+        </Communes>
+      </Daira>
+      <Daira Code="0306" Designation="حاسي الرمل">
+        <Communes>
+          <Commune Code="0305" Designation="حاسي الدلاعة" />
+          <Commune Code="0306" Designation="حاسي الرمل" />
+        </Communes>
+      </Daira>
+      <Daira Code="0307" Designation="عين ماضي">
+        <Communes>
+          <Commune Code="0307" Designation="عين ماضي" />
+          <Commune Code="0308" Designation="تاجموت" />
+          <Commune Code="0309" Designation="الخنق" />
+          <Commune Code="0318" Designation="تاجرونة" />
+          <Commune Code="0323" Designation="الحويطة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0310" Designation="قتلة سيدي سعيد">
+        <Communes>
+          <Commune Code="0310" Designation="قتلة سيدي سعيد" />
+          <Commune Code="0311" Designation="عين سهيه علي" />
+          <Commune Code="0312" Designation="بيضاء" />
+        </Communes>
+      </Daira>
+      <Daira Code="0313" Designation="بريدة">
+        <Communes>
+          <Commune Code="0313" Designation="بريدة" />
+          <Commune Code="0315" Designation="الحاج مشري" />
+          <Commune Code="0317" Designation="تاويالة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0314" Designation="الغيشة">
+        <Communes>
+          <Commune Code="0314" Designation="الغيشة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0319" Designation="أفلو">
+        <Communes>
+          <Commune Code="0316" Designation="سبقاق" />
+          <Commune Code="0319" Designation="أفلو" />
+          <Commune Code="0324" Designation="سيدي بوزيد" />
+        </Communes>
+      </Daira>
+      <Daira Code="0321" Designation="وادي مرة">
+        <Communes>
+          <Commune Code="0321" Designation="وادي مرة" />
+          <Commune Code="0322" Designation="وادي مزي" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="04" Designation="أم البواقي">
+    <Dairas>
+      <Daira Code="0401" Designation="أم البواقي">
+        <Communes>
+          <Commune Code="0401" Designation="أم البواقي" />
+          <Commune Code="0427" Designation="عين الزيتون" />
+        </Communes>
+      </Daira>
+      <Daira Code="0402" Designation="عين البيضاء">
+        <Communes>
+          <Commune Code="0402" Designation="عين البيضاء" />
+          <Commune Code="0409" Designation="بريش" />
+          <Commune Code="0418" Designation="الزرق" />
+        </Communes>
+      </Daira>
+      <Daira Code="0403" Designation="عين مليلة">
+        <Communes>
+          <Commune Code="0403" Designation="عين مليلة" />
+          <Commune Code="0410" Designation="أولاد حملة" />
+          <Commune Code="0428" Designation="أولاد قاسم" />
+        </Communes>
+      </Daira>
+      <Daira Code="0406" Designation="سيقوس">
+        <Communes>
+          <Commune Code="0405" Designation="العامرية" />
+          <Commune Code="0406" Designation="سيقوس" />
+        </Communes>
+      </Daira>
+      <Daira Code="0408" Designation="عين ببوش">
+        <Communes>
+          <Commune Code="0408" Designation="عين ببوش" />
+          <Commune Code="0415" Designation="عين الديس" />
+        </Communes>
+      </Daira>
+      <Daira Code="0411" Designation="الضلعة">
+        <Communes>
+          <Commune Code="0411" Designation="الضلعة" />
+          <Commune Code="0414" Designation="الجازية" />
+        </Communes>
+      </Daira>
+      <Daira Code="0412" Designation="عين كرشة">
+        <Communes>
+          <Commune Code="0412" Designation="عين كرشة" />
+          <Commune Code="0413" Designation="هنشير تومغني" />
+          <Commune Code="0429" Designation="الحرملية" />
+        </Communes>
+      </Daira>
+      <Daira Code="0416" Designation="فكيرينة">
+        <Communes>
+          <Commune Code="0416" Designation="فكيرينة" />
+          <Commune Code="0423" Designation="وادي نيني" />
+        </Communes>
+      </Daira>
+      <Daira Code="0417" Designation="سوق نعمان">
+        <Communes>
+          <Commune Code="0417" Designation="سوق نعمان" />
+          <Commune Code="0420" Designation="أولاد زاوي" />
+          <Commune Code="0421" Designation="بئر الشهداء" />
+        </Communes>
+      </Daira>
+      <Daira Code="0422" Designation="قصر الصباحي">
+        <Communes>
+          <Commune Code="0422" Designation="قصر الصباحي" />
+        </Communes>
+      </Daira>
+      <Daira Code="0424" Designation="مسكيانة">
+        <Communes>
+          <Commune Code="0404" Designation="بحير الشرقي" />
+          <Commune Code="0407" Designation="البلالة" />
+          <Commune Code="0424" Designation="مسكيانة" />
+          <Commune Code="0426" Designation="الرحية" />
+        </Communes>
+      </Daira>
+      <Daira Code="0425" Designation="عين فكرون">
+        <Communes>
+          <Commune Code="0419" Designation="الفجوج بوغرارة سعودي" />
+          <Commune Code="0425" Designation="عين فكرون" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="05" Designation="باتنة">
+    <Dairas>
+      <Daira Code="0501" Designation="باتنة">
+        <Communes>
+          <Commune Code="0501" Designation="باتنة" />
+          <Commune Code="0523" Designation="فسديس" />
+          <Commune Code="0537" Designation="وادي الشعبة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0504" Designation="مروانة">
+        <Communes>
+          <Commune Code="0504" Designation="مروانة" />
+          <Commune Code="0528" Designation="قصر بلزمة" />
+          <Commune Code="0533" Designation="وادي الماء" />
+          <Commune Code="0546" Designation="حيدوسة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0505" Designation="سريانة">
+        <Communes>
+          <Commune Code="0505" Designation="سريانة" />
+          <Commune Code="0554" Designation="زانة البيضاء" />
+          <Commune Code="0558" Designation="لازرو" />
+        </Communes>
+      </Daira>
+      <Daira Code="0506" Designation="منعة">
+        <Communes>
+          <Commune Code="0506" Designation="منعة" />
+          <Commune Code="0521" Designation="تغرغار" />
+        </Communes>
+      </Daira>
+      <Daira Code="0507" Designation="المعذر">
+        <Communes>
+          <Commune Code="0507" Designation="المعذر" />
+          <Commune Code="0513" Designation="جرمة" />
+          <Commune Code="0522" Designation="عين ياقوت" />
+          <Commune Code="0559" Designation="بومية" />
+        </Communes>
+      </Daira>
+      <Daira Code="0508" Designation="تازولت">
+        <Communes>
+          <Commune Code="0508" Designation="تازولت" />
+          <Commune Code="0512" Designation="عيون العصافير" />
+        </Communes>
+      </Daira>
+      <Daira Code="0509" Designation="نقاوس">
+        <Communes>
+          <Commune Code="0509" Designation="نقاوس" />
+          <Commune Code="0524" Designation="سفيان" />
+          <Commune Code="0541" Designation="بومقر" />
+        </Communes>
+      </Daira>
+      <Daira Code="0516" Designation="أريس">
+        <Communes>
+          <Commune Code="0516" Designation="أريس" />
+          <Commune Code="0526" Designation="تغانمين" />
+        </Communes>
+      </Daira>
+      <Daira Code="0519" Designation="عين جاسر">
+        <Communes>
+          <Commune Code="0519" Designation="عين جاسر" />
+          <Commune Code="0557" Designation="الحاسي" />
+        </Communes>
+      </Daira>
+      <Daira Code="0520" Designation="أولاد سلام">
+        <Communes>
+          <Commune Code="0520" Designation="أولاد سلام" />
+          <Commune Code="0525" Designation="الرحبات" />
+          <Commune Code="0534" Designation="تالغمت" />
+        </Communes>
+      </Daira>
+      <Daira Code="0529" Designation="سقانة">
+        <Communes>
+          <Commune Code="0518" Designation="تيلاطو" />
+          <Commune Code="0529" Designation="سقانة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0530" Designation="أشمول">
+        <Communes>
+          <Commune Code="0511" Designation="إينوغيسن" />
+          <Commune Code="0530" Designation="أشمول" />
+          <Commune Code="0531" Designation="فم الطوب" />
+        </Communes>
+      </Daira>
+      <Daira Code="0535" Designation="بوزينة">
+        <Communes>
+          <Commune Code="0535" Designation="بوزينة" />
+          <Commune Code="0561" Designation="لرباع" />
+        </Communes>
+      </Daira>
+      <Daira Code="0536" Designation="شمرة">
+        <Communes>
+          <Commune Code="0536" Designation="شمرة" />
+          <Commune Code="0560" Designation="بوالحيلات" />
+        </Communes>
+      </Daira>
+      <Daira Code="0542" Designation="بريكة">
+        <Communes>
+          <Commune Code="0514" Designation="بيطام" />
+          <Commune Code="0542" Designation="بريكة" />
+          <Commune Code="0555" Designation="مدوكال" />
+        </Communes>
+      </Daira>
+      <Daira Code="0543" Designation="الجزار">
+        <Communes>
+          <Commune Code="0515" Designation="إزيل عبد القادر" />
+          <Commune Code="0543" Designation="الجزار" />
+          <Commune Code="0556" Designation="أولاد عمار" />
+        </Communes>
+      </Daira>
+      <Daira Code="0544" Designation="تكوت">
+        <Communes>
+          <Commune Code="0502" Designation="غسيرة" />
+          <Commune Code="0517" Designation="كيمل" />
+          <Commune Code="0544" Designation="تكوت" />
+        </Communes>
+      </Daira>
+      <Daira Code="0545" Designation="عين التوتة">
+        <Communes>
+          <Commune Code="0503" Designation="معافة" />
+          <Commune Code="0532" Designation="بني فضالة الحقانية" />
+          <Commune Code="0540" Designation="أولاد عوف" />
+          <Commune Code="0545" Designation="عين التوتة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0547" Designation="ثنية العابد">
+        <Communes>
+          <Commune Code="0547" Designation="ثنية العابد" />
+          <Commune Code="0548" Designation="وادي الطاقة" />
+          <Commune Code="0552" Designation="شير" />
+        </Communes>
+      </Daira>
+      <Daira Code="0550" Designation="تيمقاد">
+        <Communes>
+          <Commune Code="0549" Designation="أولاد فاضل" />
+          <Commune Code="0550" Designation="تيمقاد" />
+        </Communes>
+      </Daira>
+      <Daira Code="0551" Designation="رأس العيون">
+        <Communes>
+          <Commune Code="0510" Designation="قيقبة" />
+          <Commune Code="0539" Designation="القصبات" />
+          <Commune Code="0551" Designation="رأس العيون" />
+        </Communes>
+      </Daira>
+      <Daira Code="0553" Designation="أولاد سيدي سليمان">
+        <Communes>
+          <Commune Code="0527" Designation="لمسان" />
+          <Commune Code="0538" Designation="تاكسلانة" />
+          <Commune Code="0553" Designation="أولاد سيدي سليمان" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="06" Designation="بجاية">
+    <Dairas>
+      <Daira Code="0601" Designation="بجاية">
+        <Communes>
+          <Commune Code="0601" Designation="بجاية" />
+          <Commune Code="0651" Designation="وادي غير" />
+        </Communes>
+      </Daira>
+      <Daira Code="0602" Designation="أميزور">
+        <Communes>
+          <Commune Code="0602" Designation="أميزور" />
+          <Commune Code="0603" Designation="فرعون" />
+          <Commune Code="0612" Designation="سمعون" />
+          <Commune Code="0623" Designation="بني جليل" />
+        </Communes>
+      </Daira>
+      <Daira Code="0607" Designation="تيمزريت">
+        <Communes>
+          <Commune Code="0607" Designation="تيمزريت" />
+        </Communes>
+      </Daira>
+      <Daira Code="0608" Designation="سوق لإثنين">
+        <Communes>
+          <Commune Code="0608" Designation="سوق لإثنين" />
+          <Commune Code="0641" Designation="مالبو" />
+          <Commune Code="0646" Designation="تامريجت" />
+        </Communes>
+      </Daira>
+      <Daira Code="0611" Designation="تيشي">
+        <Communes>
+          <Commune Code="0611" Designation="تيشي" />
+          <Commune Code="0633" Designation="تالة حمزة" />
+          <Commune Code="0648" Designation="بوخليفة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0617" Designation="إغيل علي">
+        <Communes>
+          <Commune Code="0617" Designation="إغيل علي" />
+          <Commune Code="0628" Designation="أيت رزين" />
+        </Communes>
+      </Daira>
+      <Daira Code="0620" Designation="درقينة">
+        <Communes>
+          <Commune Code="0620" Designation="درقينة" />
+          <Commune Code="0631" Designation="تاسكريوت" />
+          <Commune Code="0647" Designation="أيت إسماعيل" />
+        </Communes>
+      </Daira>
+      <Daira Code="0622" Designation="أوقاس">
+        <Communes>
+          <Commune Code="0622" Designation="أوقاس" />
+          <Commune Code="0649" Designation="تيزي نبربر" />
+        </Communes>
+      </Daira>
+      <Daira Code="0624" Designation="أدكار">
+        <Communes>
+          <Commune Code="0604" Designation="تاوريرت إغيل" />
+          <Commune Code="0624" Designation="أدكار" />
+          <Commune Code="0635" Designation="بني كسيلة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0625" Designation="أقبو">
+        <Communes>
+          <Commune Code="0605" Designation="شلاطة" />
+          <Commune Code="0606" Designation="تامقرة" />
+          <Commune Code="0615" Designation="إغرم" />
+          <Commune Code="0625" Designation="أقبو" />
+        </Communes>
+      </Daira>
+      <Daira Code="0626" Designation="صدوق">
+        <Communes>
+          <Commune Code="0609" Designation="مسيسنة" />
+          <Commune Code="0616" Designation="أمالو" />
+          <Commune Code="0626" Designation="صدوق" />
+          <Commune Code="0637" Designation="بوحمزة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0627" Designation="تزمالت">
+        <Communes>
+          <Commune Code="0627" Designation="تزمالت" />
+          <Commune Code="0638" Designation="بني مليكش" />
+          <Commune Code="0652" Designation="بو جليل" />
+        </Communes>
+      </Daira>
+      <Daira Code="0629" Designation="شميني">
+        <Communes>
+          <Commune Code="0629" Designation="شميني" />
+          <Commune Code="0630" Designation="السوق أوفلا" />
+          <Commune Code="0632" Designation="طيبان" />
+          <Commune Code="0642" Designation="أكفادو" />
+        </Communes>
+      </Daira>
+      <Daira Code="0634" Designation="برباشة">
+        <Communes>
+          <Commune Code="0613" Designation="كنديرة" />
+          <Commune Code="0634" Designation="برباشة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0636" Designation="أوزلاقن">
+        <Communes>
+          <Commune Code="0636" Designation="أوزلاقن" />
+        </Communes>
+      </Daira>
+      <Daira Code="0639" Designation="سيدي عيش">
+        <Communes>
+          <Commune Code="0610" Designation="تينبدار" />
+          <Commune Code="0614" Designation="تيفرة" />
+          <Commune Code="0621" Designation="سيدي عياد" />
+          <Commune Code="0639" Designation="سيدي عيش" />
+          <Commune Code="0643" Designation="لفلاي" />
+        </Communes>
+      </Daira>
+      <Daira Code="0640" Designation="القصر">
+        <Communes>
+          <Commune Code="0618" Designation="فلاين الماثن" />
+          <Commune Code="0619" Designation="توجة" />
+          <Commune Code="0640" Designation="القصر" />
+        </Communes>
+      </Daira>
+      <Daira Code="0644" Designation="خراطة">
+        <Communes>
+          <Commune Code="0644" Designation="خراطة" />
+          <Commune Code="0645" Designation="ذراع القايد" />
+        </Communes>
+      </Daira>
+      <Daira Code="0650" Designation="بني معوش">
+        <Communes>
+          <Commune Code="0650" Designation="بني معوش" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="07" Designation="بسكرة">
+    <Dairas>
+      <Daira Code="0701" Designation="بسكرة">
+        <Communes>
+          <Commune Code="0701" Designation="بسكرة" />
+          <Commune Code="0732" Designation="الحاجب" />
+        </Communes>
+      </Daira>
+      <Daira Code="0705" Designation="أولاد جلال">
+        <Communes>
+          <Commune Code="0705" Designation="أولاد جلال" />
+          <Commune Code="0709" Designation="الدوسن" />
+          <Commune Code="0710" Designation="الشعيبة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0708" Designation="سيدي  خالد">
+        <Communes>
+          <Commune Code="0706" Designation="رأس الميعاد" />
+          <Commune Code="0707" Designation="بسباس" />
+          <Commune Code="0708" Designation="سيدي  خالد" />
+        </Communes>
+      </Daira>
+      <Daira Code="0711" Designation="سيدي عقبة">
+        <Communes>
+          <Commune Code="0704" Designation="شتمة" />
+          <Commune Code="0711" Designation="سيدي عقبة" />
+          <Commune Code="0713" Designation="الحوش" />
+          <Commune Code="0714" Designation="عين الناقة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0712" Designation="مشونش">
+        <Communes>
+          <Commune Code="0712" Designation="مشونش" />
+        </Communes>
+      </Daira>
+      <Daira Code="0715" Designation="زريبة الوادي">
+        <Communes>
+          <Commune Code="0715" Designation="زريبة الوادي" />
+          <Commune Code="0716" Designation="الفيض" />
+          <Commune Code="0728" Designation="المزيرعة" />
+          <Commune Code="0733" Designation="خنقة سيدي ناجي" />
+        </Communes>
+      </Daira>
+      <Daira Code="0717" Designation="القنطرة">
+        <Communes>
+          <Commune Code="0717" Designation="القنطرة" />
+          <Commune Code="0718" Designation="عين زعطوط" />
+        </Communes>
+      </Daira>
+      <Daira Code="0719" Designation="الوطاية">
+        <Communes>
+          <Commune Code="0719" Designation="الوطاية" />
+        </Communes>
+      </Daira>
+      <Daira Code="0720" Designation="جمورة">
+        <Communes>
+          <Commune Code="0703" Designation="برانيس" />
+          <Commune Code="0720" Designation="جمورة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0721" Designation="طولقة">
+        <Communes>
+          <Commune Code="0721" Designation="طولقة" />
+          <Commune Code="0723" Designation="ليشانة" />
+          <Commune Code="0727" Designation="برج بن عزوز" />
+          <Commune Code="0729" Designation="بوشقرون" />
+        </Communes>
+      </Daira>
+      <Daira Code="0724" Designation="أورلال">
+        <Communes>
+          <Commune Code="0702" Designation="أوماش" />
+          <Commune Code="0722" Designation="ليوة" />
+          <Commune Code="0724" Designation="أورلال" />
+          <Commune Code="0725" Designation="مليلي" />
+          <Commune Code="0730" Designation="مخادمة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0726" Designation="فوغالة">
+        <Communes>
+          <Commune Code="0726" Designation="فوغالة" />
+          <Commune Code="0731" Designation="الغروس" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="08" Designation="بشار">
+    <Dairas>
+      <Daira Code="0801" Designation="بشار">
+        <Communes>
+          <Commune Code="0801" Designation="بشار" />
+        </Communes>
+      </Daira>
+      <Daira Code="0803" Designation="أولاد خضير">
+        <Communes>
+          <Commune Code="0803" Designation="أولاد خضير" />
+          <Commune Code="0819" Designation="قصابي" />
+        </Communes>
+      </Daira>
+      <Daira Code="0806" Designation="الأحمر">
+        <Communes>
+          <Commune Code="0806" Designation="الأحمر" />
+          <Commune Code="0815" Designation="بوقايس" />
+          <Commune Code="0816" Designation="موغل" />
+        </Communes>
+      </Daira>
+      <Daira Code="0807" Designation="بني عباس">
+        <Communes>
+          <Commune Code="0807" Designation="بني عباس" />
+          <Commune Code="0820" Designation="تامترت" />
+        </Communes>
+      </Daira>
+      <Daira Code="0810" Designation="قنادسة">
+        <Communes>
+          <Commune Code="0804" Designation="مريجة" />
+          <Commune Code="0810" Designation="قنادسة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0811" Designation="إيقلي">
+        <Communes>
+          <Commune Code="0811" Designation="إيقلي" />
+        </Communes>
+      </Daira>
+      <Daira Code="0812" Designation="تبلبالة">
+        <Communes>
+          <Commune Code="0812" Designation="تبلبالة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0813" Designation="تاغيت">
+        <Communes>
+          <Commune Code="0813" Designation="تاغيت" />
+        </Communes>
+      </Daira>
+      <Daira Code="0814" Designation="الوطاء">
+        <Communes>
+          <Commune Code="0814" Designation="الوطاء" />
+        </Communes>
+      </Daira>
+      <Daira Code="0817" Designation="العبادل">
+        <Communes>
+          <Commune Code="0802" Designation="عرق فراج" />
+          <Commune Code="0809" Designation="مشروع هواري بومدين" />
+          <Commune Code="0817" Designation="العبادل" />
+        </Communes>
+      </Daira>
+      <Daira Code="0818" Designation="كرزاز">
+        <Communes>
+          <Commune Code="0805" Designation="تمودي" />
+          <Commune Code="0808" Designation="بني يخلف" />
+          <Commune Code="0818" Designation="كرزاز" />
+        </Communes>
+      </Daira>
+      <Daira Code="0821" Designation="بني ونيف">
+        <Communes />
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="09" Designation="البليدة">
+    <Dairas>
+      <Daira Code="0901" Designation="البليدة">
+        <Communes>
+          <Commune Code="0901" Designation="البليدة" />
+          <Commune Code="0920" Designation="بوعرفة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0902" Designation="بوعينان">
+        <Communes>
+          <Commune Code="0902" Designation="بوعينان" />
+          <Commune Code="0903" Designation="بوعينان" />
+        </Communes>
+      </Daira>
+      <Daira Code="0904" Designation="وادي العلايق">
+        <Communes>
+          <Commune Code="0904" Designation="وادي العلايق" />
+          <Commune Code="0910" Designation="بن خليل" />
+          <Commune Code="0919" Designation="بني تامو" />
+        </Communes>
+      </Daira>
+      <Daira Code="0905" Designation="أولاد يعيش">
+        <Communes>
+          <Commune Code="0905" Designation="أولاد يعيش" />
+          <Commune Code="0906" Designation="الشريعة" />
+          <Commune Code="0921" Designation="بني مراد" />
+        </Communes>
+      </Daira>
+      <Daira Code="0907" Designation="العفرون">
+        <Communes>
+          <Commune Code="0907" Designation="العفرون" />
+          <Commune Code="0918" Designation="وادي جر" />
+        </Communes>
+      </Daira>
+      <Daira Code="0912" Designation="موزاية">
+        <Communes>
+          <Commune Code="0908" Designation="الشفة" />
+          <Commune Code="0912" Designation="موزاية" />
+          <Commune Code="0924" Designation="عين الرمانة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0914" Designation="مفتاح">
+        <Communes>
+          <Commune Code="0914" Designation="مفتاح" />
+          <Commune Code="0925" Designation="جبابرة" />
+        </Communes>
+      </Daira>
+      <Daira Code="0916" Designation="بوفاريك">
+        <Communes>
+          <Commune Code="0911" Designation="الصومعة" />
+          <Commune Code="0916" Designation="بوفاريك" />
+          <Commune Code="0923" Designation="قرواو" />
+        </Communes>
+      </Daira>
+      <Daira Code="0917" Designation="الأربعاء">
+        <Communes>
+          <Commune Code="0913" Designation="سوحان" />
+          <Commune Code="0917" Designation="الأربعاء" />
+        </Communes>
+      </Daira>
+      <Daira Code="0922" Designation="بوقرة">
+        <Communes>
+          <Commune Code="0909" Designation="حمام ملوان" />
+          <Commune Code="0915" Designation="اولاد سلامة" />
+          <Commune Code="0922" Designation="بوقرة" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="10" Designation="البويرة">
+    <Dairas>
+      <Daira Code="1001" Designation="البويرة">
+        <Communes>
+          <Commune Code="1001" Designation="البويرة" />
+          <Commune Code="1008" Designation="أيت لعزيز" />
+          <Commune Code="1029" Designation="عين الترك" />
+        </Communes>
+      </Daira>
+      <Daira Code="1004" Designation="سوق الخميس">
+        <Communes>
+          <Commune Code="1004" Designation="سوق الخميس" />
+          <Commune Code="1044" Designation="المقراني" />
+        </Communes>
+      </Daira>
+      <Daira Code="1005" Designation="القادرية">
+        <Communes>
+          <Commune Code="1005" Designation="القادرية" />
+          <Commune Code="1016" Designation="أعمر" />
+          <Commune Code="1026" Designation="جباحية" />
+        </Communes>
+      </Daira>
+      <Daira Code="1012" Designation="الحيزر">
+        <Communes>
+          <Commune Code="1009" Designation="تاغزوت" />
+          <Commune Code="1012" Designation="الحيزر" />
+        </Communes>
+      </Daira>
+      <Daira Code="1013" Designation="الأخضرية">
+        <Communes>
+          <Commune Code="1003" Designation="قرومة" />
+          <Commune Code="1013" Designation="الأخضرية" />
+          <Commune Code="1014" Designation="معلة" />
+          <Commune Code="1023" Designation="بودربالة" />
+          <Commune Code="1024" Designation="زبربر" />
+          <Commune Code="1034" Designation="بوكرم" />
+        </Communes>
+      </Daira>
+      <Daira Code="1015" Designation="الهاشمية">
+        <Communes>
+          <Commune Code="1015" Designation="الهاشمية" />
+          <Commune Code="1045" Designation="وادي البردي" />
+        </Communes>
+      </Daira>
+      <Daira Code="1018" Designation="برج أوخريص">
+        <Communes>
+          <Commune Code="1011" Designation="مزدور" />
+          <Commune Code="1018" Designation="برج أوخريص" />
+          <Commune Code="1028" Designation="تاقديت" />
+          <Commune Code="1042" Designation="الحجرة الزرقاء" />
+        </Communes>
+      </Daira>
+      <Daira Code="1033" Designation="بشلول">
+        <Communes>
+          <Commune Code="1002" Designation="الأسنام" />
+          <Commune Code="1019" Designation="العجيبة" />
+          <Commune Code="1022" Designation="أهل القصر" />
+          <Commune Code="1033" Designation="بشلول" />
+          <Commune Code="1040" Designation="أولاد راشد" />
+        </Communes>
+      </Daira>
+      <Daira Code="1035" Designation="عين بسام">
+        <Communes>
+          <Commune Code="1025" Designation="عين الحجر" />
+          <Commune Code="1035" Designation="عين بسام" />
+          <Commune Code="1041" Designation="عين العلوي" />
+        </Communes>
+      </Daira>
+      <Daira Code="1036" Designation="بئر غبالو">
+        <Communes>
+          <Commune Code="1010" Designation="روراوة" />
+          <Commune Code="1021" Designation="الخبوزية" />
+          <Commune Code="1036" Designation="بئر غبالو" />
+        </Communes>
+      </Daira>
+      <Daira Code="1037" Designation="مشد الله">
+        <Communes>
+          <Commune Code="1006" Designation="حنيف" />
+          <Commune Code="1017" Designation="الشرفاء" />
+          <Commune Code="1027" Designation="أغبالو" />
+          <Commune Code="1030" Designation="سحاريج" />
+          <Commune Code="1037" Designation="مشد الله" />
+          <Commune Code="1043" Designation="آث  منصور" />
+        </Communes>
+      </Daira>
+      <Daira Code="1038" Designation="سور الغزلان">
+        <Communes>
+          <Commune Code="1007" Designation="ديرة" />
+          <Commune Code="1020" Designation="الحاكمية" />
+          <Commune Code="1031" Designation="الدشمية" />
+          <Commune Code="1032" Designation="ريدان" />
+          <Commune Code="1038" Designation="سور الغزلان" />
+          <Commune Code="1039" Designation="المعمورة" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="11" Designation="تامنغست">
+    <Dairas>
+      <Daira Code="1101" Designation="تامنغست">
+        <Communes>
+          <Commune Code="1101" Designation="تامنغست" />
+          <Commune Code="1109" Designation="عين امقل" />
+        </Communes>
+      </Daira>
+      <Daira Code="1102" Designation="اباليسا">
+        <Communes>
+          <Commune Code="1102" Designation="اباليسا" />
+        </Communes>
+      </Daira>
+      <Daira Code="1103" Designation="عين غار">
+        <Communes>
+          <Commune Code="1103" Designation="عين غار" />
+        </Communes>
+      </Daira>
+      <Daira Code="1104" Designation="عين قزام">
+        <Communes>
+          <Commune Code="1104" Designation="عين قزام" />
+        </Communes>
+      </Daira>
+      <Daira Code="1106" Designation="تازروق">
+        <Communes>
+          <Commune Code="1105" Designation="أدلس" />
+          <Commune Code="1106" Designation="تازروق" />
+        </Communes>
+      </Daira>
+      <Daira Code="1107" Designation="تين زواتين">
+        <Communes>
+          <Commune Code="1107" Designation="تين زواتين" />
+        </Communes>
+      </Daira>
+      <Daira Code="1108" Designation="عين صالح">
+        <Communes>
+          <Commune Code="1108" Designation="عين صالح" />
+          <Commune Code="1110" Designation="فقارات الزاوية" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="12" Designation="تبسة">
+    <Dairas>
+      <Daira Code="1201" Designation="تبسة">
+        <Communes>
+          <Commune Code="1201" Designation="تبسة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1202" Designation="بئر العاتر">
+        <Communes>
+          <Commune Code="1202" Designation="بئر العاتر" />
+          <Commune Code="1215" Designation="العقلة المالحة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1203" Designation="الشريعة">
+        <Communes>
+          <Commune Code="1203" Designation="الشريعة" />
+          <Commune Code="1222" Designation="ثليجان" />
+        </Communes>
+      </Daira>
+      <Daira Code="1205" Designation="العوينات">
+        <Communes>
+          <Commune Code="1205" Designation="العوينات" />
+          <Commune Code="1218" Designation="بوخضرة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1209" Designation="نقرين">
+        <Communes>
+          <Commune Code="1209" Designation="نقرين" />
+          <Commune Code="1228" Designation="فركان" />
+        </Communes>
+      </Daira>
+      <Daira Code="1210" Designation="بئر مقدم">
+        <Communes>
+          <Commune Code="1208" Designation="الحمامات" />
+          <Commune Code="1210" Designation="بئر مقدم" />
+          <Commune Code="1216" Designation="قريقر" />
+        </Communes>
+      </Daira>
+      <Daira Code="1211" Designation="الكويف">
+        <Communes>
+          <Commune Code="1211" Designation="الكويف" />
+          <Commune Code="1217" Designation="بكارية" />
+          <Commune Code="1225" Designation="بولحاف الدير" />
+        </Communes>
+      </Daira>
+      <Daira Code="1212" Designation="مرسط">
+        <Communes>
+          <Commune Code="1212" Designation="مرسط" />
+          <Commune Code="1214" Designation="بئر الذهب" />
+        </Communes>
+      </Daira>
+      <Daira Code="1213" Designation="العقلة">
+        <Communes>
+          <Commune Code="1204" Designation="سطح قنطيس" />
+          <Commune Code="1213" Designation="العقلة" />
+          <Commune Code="1226" Designation="بجن" />
+          <Commune Code="1227" Designation="المزرعة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1219" Designation="الونزة">
+        <Communes>
+          <Commune Code="1219" Designation="الونزة" />
+          <Commune Code="1223" Designation="عين الزرقاء" />
+          <Commune Code="1224" Designation="المريج" />
+        </Communes>
+      </Daira>
+      <Daira Code="1220" Designation="الماء الابيض">
+        <Communes>
+          <Commune Code="1206" Designation="الحويجبات" />
+          <Commune Code="1220" Designation="الماء الابيض" />
+        </Communes>
+      </Daira>
+      <Daira Code="1221" Designation="أم علي">
+        <Communes>
+          <Commune Code="1207" Designation="صفصاف الوسرى" />
+          <Commune Code="1221" Designation="أم علي" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="13" Designation="تلمسان">
+    <Dairas>
+      <Daira Code="1301" Designation="تلمسان">
+        <Communes>
+          <Commune Code="1301" Designation="تلمسان" />
+        </Communes>
+      </Daira>
+      <Daira Code="1303" Designation="عين تالوت">
+        <Communes>
+          <Commune Code="1303" Designation="عين تالوت" />
+          <Commune Code="1325" Designation="عين نحالة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1304" Designation="الرمشي">
+        <Communes>
+          <Commune Code="1304" Designation="الرمشي" />
+          <Commune Code="1305" Designation="الفحول" />
+          <Commune Code="1315" Designation="عين يوسف" />
+          <Commune Code="1322" Designation="السبعة شيوخ" />
+          <Commune Code="1336" Designation="بني وارسوس" />
+        </Communes>
+      </Daira>
+      <Daira Code="1306" Designation="صبرة">
+        <Communes>
+          <Commune Code="1306" Designation="صبرة" />
+          <Commune Code="1347" Designation="بوحلو" />
+        </Communes>
+      </Daira>
+      <Daira Code="1307" Designation="الغزوات">
+        <Communes>
+          <Commune Code="1307" Designation="الغزوات" />
+          <Commune Code="1319" Designation="دار يغمراسن" />
+          <Commune Code="1329" Designation="السواحلية" />
+          <Commune Code="1345" Designation="تيانت" />
+        </Communes>
+      </Daira>
+      <Daira Code="1313" Designation="أولاد ميمون">
+        <Communes>
+          <Commune Code="1311" Designation="وادي لخظر" />
+          <Commune Code="1313" Designation="أولاد ميمون" />
+          <Commune Code="1352" Designation="بني صميل" />
+        </Communes>
+      </Daira>
+      <Daira Code="1317" Designation="بني سنوس">
+        <Communes>
+          <Commune Code="1317" Designation="بني سنوس" />
+          <Commune Code="1321" Designation="العزايل" />
+          <Commune Code="1342" Designation="بني بهدل" />
+        </Communes>
+      </Daira>
+      <Daira Code="1318" Designation="باب العسة">
+        <Communes>
+          <Commune Code="1308" Designation="السواني" />
+          <Commune Code="1318" Designation="باب العسة" />
+          <Commune Code="1333" Designation="سوق الثلاثاء" />
+        </Communes>
+      </Daira>
+      <Daira Code="1320" Designation="فلاوسن">
+        <Communes>
+          <Commune Code="1320" Designation="فلاوسن" />
+          <Commune Code="1331" Designation="عين فتاح" />
+          <Commune Code="1353" Designation="العين الكبيرة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1324" Designation="إبن سكران">
+        <Communes>
+          <Commune Code="1324" Designation="إبن سكران" />
+          <Commune Code="1334" Designation="سيدي عبد اللي" />
+        </Communes>
+      </Daira>
+      <Daira Code="1326" Designation="الحناية">
+        <Communes>
+          <Commune Code="1316" Designation="زناتة" />
+          <Commune Code="1326" Designation="الحناية" />
+          <Commune Code="1346" Designation="أولاد رياح" />
+        </Communes>
+      </Daira>
+      <Daira Code="1327" Designation="مغنية">
+        <Communes>
+          <Commune Code="1327" Designation="مغنية" />
+          <Commune Code="1328" Designation="حمام بوغرارة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1335" Designation="سبدو">
+        <Communes>
+          <Commune Code="1310" Designation="القور" />
+          <Commune Code="1332" Designation="العريشة" />
+          <Commune Code="1335" Designation="سبدو" />
+        </Communes>
+      </Daira>
+      <Daira Code="1338" Designation="بني بوسعيد">
+        <Communes>
+          <Commune Code="1337" Designation="سيدي مجاهد" />
+          <Commune Code="1338" Designation="بني بوسعيد" />
+        </Communes>
+      </Daira>
+      <Daira Code="1339" Designation="مرسى بن مهيدي">
+        <Communes>
+          <Commune Code="1330" Designation="مسيردة الفواقة" />
+          <Commune Code="1339" Designation="مرسى بن مهيدي" />
+        </Communes>
+      </Daira>
+      <Daira Code="1340" Designation="ندرومة">
+        <Communes>
+          <Commune Code="1309" Designation="جبالة" />
+          <Commune Code="1340" Designation="ندرومة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1341" Designation="سيدي الجيلالي">
+        <Communes>
+          <Commune Code="1341" Designation="سيدي الجيلالي" />
+          <Commune Code="1343" Designation="البويهي" />
+        </Communes>
+      </Daira>
+      <Daira Code="1344" Designation="حنين">
+        <Communes>
+          <Commune Code="1344" Designation="حنين" />
+          <Commune Code="1348" Designation="بني خلاد" />
+        </Communes>
+      </Daira>
+      <Daira Code="1350" Designation="شتوان">
+        <Communes>
+          <Commune Code="1312" Designation="عين فزة" />
+          <Commune Code="1314" Designation="عمير" />
+          <Commune Code="1350" Designation="شتوان" />
+        </Communes>
+      </Daira>
+      <Daira Code="1351" Designation="منصورة">
+        <Communes>
+          <Commune Code="1302" Designation="بني مستر" />
+          <Commune Code="1323" Designation="تيرني بني هديل" />
+          <Commune Code="1349" Designation="عين الغرابة" />
+          <Commune Code="1351" Designation="منصورة" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="14" Designation="تيارت">
+    <Dairas>
+      <Daira Code="1401" Designation="تيارت">
+        <Communes>
+          <Commune Code="1401" Designation="تيارت" />
+        </Communes>
+      </Daira>
+      <Daira Code="1402" Designation="مدروسة">
+        <Communes>
+          <Commune Code="1402" Designation="مدروسة" />
+          <Commune Code="1407" Designation="سيدي بختي" />
+          <Commune Code="1412" Designation="ملاكو" />
+        </Communes>
+      </Daira>
+      <Daira Code="1406" Designation="عين الذهب">
+        <Communes>
+          <Commune Code="1406" Designation="عين الذهب" />
+          <Commune Code="1420" Designation="النعيمة" />
+          <Commune Code="1436" Designation="شحيمة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1413" Designation="دحموني">
+        <Communes>
+          <Commune Code="1403" Designation="عين بوشقيف" />
+          <Commune Code="1413" Designation="دحموني" />
+        </Communes>
+      </Daira>
+      <Daira Code="1414" Designation="رحوية">
+        <Communes>
+          <Commune Code="1414" Designation="رحوية" />
+          <Commune Code="1422" Designation="قرطوفة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1415" Designation="مهدية">
+        <Communes>
+          <Commune Code="1405" Designation="عين زاريت" />
+          <Commune Code="1415" Designation="مهدية" />
+          <Commune Code="1425" Designation="سبعين" />
+          <Commune Code="1431" Designation="الناظورة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1416" Designation="السوقر">
+        <Communes>
+          <Commune Code="1416" Designation="السوقر" />
+          <Commune Code="1417" Designation="سي عبد الغني" />
+          <Commune Code="1426" Designation="توسنينة" />
+          <Commune Code="1441" Designation="الفايجة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1421" Designation="مغيلة">
+        <Communes>
+          <Commune Code="1411" Designation="السبت" />
+          <Commune Code="1421" Designation="مغيلة" />
+          <Commune Code="1423" Designation="سيدي الحسني" />
+        </Communes>
+      </Daira>
+      <Daira Code="1427" Designation="فرندة">
+        <Communes>
+          <Commune Code="1418" Designation="عين الحديد" />
+          <Commune Code="1427" Designation="فرندة" />
+          <Commune Code="1437" Designation="تخمرت" />
+        </Communes>
+      </Daira>
+      <Daira Code="1428" Designation="عين كرمس">
+        <Communes>
+          <Commune Code="1408" Designation="مدريسة" />
+          <Commune Code="1410" Designation="مادنة" />
+          <Commune Code="1419" Designation="جبيلة الرصفاء" />
+          <Commune Code="1428" Designation="عين كرمس" />
+          <Commune Code="1438" Designation="سيدي عبد الرحمن" />
+        </Communes>
+      </Daira>
+      <Daira Code="1429" Designation="قصر الشلالة">
+        <Communes>
+          <Commune Code="1409" Designation="زمالة  الأمير عبد القادر" />
+          <Commune Code="1429" Designation="قصر الشلالة" />
+          <Commune Code="1439" Designation="سرغين" />
+        </Communes>
+      </Daira>
+      <Daira Code="1433" Designation="وادي ليلي">
+        <Communes>
+          <Commune Code="1404" Designation="سيدي علي ملال" />
+          <Commune Code="1433" Designation="وادي ليلي" />
+          <Commune Code="1442" Designation="تيدة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1434" Designation="مشرع الصفا">
+        <Communes>
+          <Commune Code="1424" Designation="جيلالي بن عمار" />
+          <Commune Code="1432" Designation="تاقدمت" />
+          <Commune Code="1434" Designation="مشرع الصفا" />
+        </Communes>
+      </Daira>
+      <Daira Code="1435" Designation="الحمادية">
+        <Communes>
+          <Commune Code="1430" Designation="الرشايقة" />
+          <Commune Code="1435" Designation="الحمادية" />
+          <Commune Code="1440" Designation="بوقرة" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="15" Designation="تيزي وزو">
+    <Dairas>
+      <Daira Code="1501" Designation="تيزي وزو">
+        <Communes>
+          <Commune Code="1501" Designation="تيزي وزو" />
+        </Communes>
+      </Daira>
+      <Daira Code="1502" Designation="عين الحمام">
+        <Communes>
+          <Commune Code="1502" Designation="عين الحمام" />
+          <Commune Code="1503" Designation="اقبيل" />
+          <Commune Code="1527" Designation="أيت يحي" />
+          <Commune Code="1531" Designation="أبي يوسف" />
+        </Communes>
+      </Daira>
+      <Daira Code="1509" Designation="ماكودة">
+        <Communes>
+          <Commune Code="1509" Designation="ماكودة" />
+          <Commune Code="1555" Designation="بوجيمة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1510" Designation="ذراع الميزان">
+        <Communes>
+          <Commune Code="1510" Designation="ذراع الميزان" />
+          <Commune Code="1514" Designation="فريقات" />
+          <Commune Code="1525" Designation="عين الزاوية" />
+          <Commune Code="1556" Designation="أيت يحيى" />
+        </Communes>
+      </Daira>
+      <Daira Code="1511" Designation="تيزي غنيف">
+        <Communes>
+          <Commune Code="1511" Designation="تيزي غنيف" />
+          <Commune Code="1526" Designation="مكيرة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1517" Designation="ايفرحونن">
+        <Communes>
+          <Commune Code="1517" Designation="ايفرحونن" />
+          <Commune Code="1533" Designation="اليلتين" />
+          <Commune Code="1563" Designation="أمسوحال" />
+        </Communes>
+      </Daira>
+      <Daira Code="1518" Designation="عزازقة">
+        <Communes>
+          <Commune Code="1504" Designation="فريحة" />
+          <Commune Code="1518" Designation="عزازقة" />
+          <Commune Code="1520" Designation="يعكورن" />
+          <Commune Code="1523" Designation="زكري" />
+          <Commune Code="1541" Designation="إيفيغاء" />
+        </Communes>
+      </Daira>
+      <Daira Code="1521" Designation="الاربعاء نايث ايراثن">
+        <Communes>
+          <Commune Code="1507" Designation="ارجن" />
+          <Commune Code="1521" Designation="الاربعاء نايث ايراثن" />
+          <Commune Code="1535" Designation="أيت قواشة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1522" Designation="تيزي راشد">
+        <Communes>
+          <Commune Code="1522" Designation="تيزي راشد" />
+          <Commune Code="1542" Designation="أيت  أومالو" />
+        </Communes>
+      </Daira>
+      <Daira Code="1524" Designation="واقنون">
+        <Communes>
+          <Commune Code="1508" Designation="تيميزارت" />
+          <Commune Code="1524" Designation="واقنون" />
+          <Commune Code="1539" Designation="جبل عيسى ميمون" />
+        </Communes>
+      </Daira>
+      <Daira Code="1529" Designation="المعاتقة">
+        <Communes>
+          <Commune Code="1529" Designation="المعاتقة" />
+          <Commune Code="1557" Designation="سوق الاثنين" />
+        </Communes>
+      </Daira>
+      <Daira Code="1532" Designation="بني دوالة">
+        <Communes>
+          <Commune Code="1515" Designation="بني عيسي" />
+          <Commune Code="1516" Designation="بني زمنزر" />
+          <Commune Code="1528" Designation="أيت محمود" />
+          <Commune Code="1532" Designation="بني دوالة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1534" Designation="بوزغن">
+        <Communes>
+          <Commune Code="1519" Designation="ايلولة امالو" />
+          <Commune Code="1534" Designation="بوزغن" />
+          <Commune Code="1546" Designation="بني زيكي" />
+          <Commune Code="1549" Designation="إجر" />
+        </Communes>
+      </Daira>
+      <Daira Code="1536" Designation="واضية">
+        <Communes>
+          <Commune Code="1536" Designation="واضية" />
+          <Commune Code="1551" Designation="تيزي نثلاثة" />
+          <Commune Code="1561" Designation="أقني قغران" />
+          <Commune Code="1565" Designation="أيت بوعدو" />
+        </Communes>
+      </Daira>
+      <Daira Code="1537" Designation="أزفون">
+        <Communes>
+          <Commune Code="1513" Designation="أيت شفعة" />
+          <Commune Code="1537" Designation="أزفون" />
+          <Commune Code="1544" Designation="أقرو" />
+          <Commune Code="1553" Designation="أغريب" />
+        </Communes>
+      </Daira>
+      <Daira Code="1538" Designation="تقيزريت">
+        <Communes>
+          <Commune Code="1538" Designation="تقيزريت" />
+          <Commune Code="1554" Designation="أفليسن" />
+          <Commune Code="1562" Designation="مزرانة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1540" Designation="بوغني">
+        <Communes>
+          <Commune Code="1506" Designation="مشطراس" />
+          <Commune Code="1512" Designation="بونوح" />
+          <Commune Code="1540" Designation="بوغني" />
+          <Commune Code="1566" Designation="أسي يوسف" />
+        </Communes>
+      </Daira>
+      <Daira Code="1547" Designation="ذراع بن خدة">
+        <Communes>
+          <Commune Code="1543" Designation="تيرمتين" />
+          <Commune Code="1547" Designation="ذراع بن خدة" />
+          <Commune Code="1559" Designation="سيدي نعمان" />
+          <Commune Code="1564" Designation="تادمايت" />
+        </Communes>
+      </Daira>
+      <Daira Code="1548" Designation="واسيف">
+        <Communes>
+          <Commune Code="1530" Designation="أيت بومهدي" />
+          <Commune Code="1548" Designation="واسيف" />
+          <Commune Code="1567" Designation="أيت تودرت" />
+        </Communes>
+      </Daira>
+      <Daira Code="1550" Designation="مقلة">
+        <Communes>
+          <Commune Code="1505" Designation="الصوامع" />
+          <Commune Code="1550" Designation="مقلة" />
+          <Commune Code="1558" Designation="أيت خليلي" />
+        </Communes>
+      </Daira>
+      <Daira Code="1552" Designation="بني يني">
+        <Communes>
+          <Commune Code="1545" Designation="ياطفان" />
+          <Commune Code="1552" Designation="بني يني" />
+          <Commune Code="1560" Designation="أبودرارن" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="16" Designation="سيدي امحمد">
+    <Dairas>
+      <Daira Code="1602" Designation="سيدي امحمد">
+        <Communes>
+          <Commune Code="1601" Designation="الجزائر" />
+          <Commune Code="1602" Designation="سيدي امحمد" />
+          <Commune Code="1603" Designation="المدنية" />
+        </Communes>
+      </Daira>
+      <Daira Code="1605" Designation="باب الوادي">
+        <Communes>
+          <Commune Code="1605" Designation="باب الوادي" />
+          <Commune Code="1606" Designation="بولوغين بن زيري" />
+          <Commune Code="1607" Designation="القصبة" />
+          <Commune Code="1608" Designation="وادي قريش" />
+          <Commune Code="1625" Designation="الرايس حميدو" />
+        </Communes>
+      </Daira>
+      <Daira Code="1609" Designation="بئر مراد رايس">
+        <Communes>
+          <Commune Code="1609" Designation="بئر مراد رايس" />
+          <Commune Code="1612" Designation="بئر خادم" />
+          <Commune Code="1626" Designation="جسر قسنطينة" />
+          <Commune Code="1628" Designation="حيدرة" />
+          <Commune Code="1645" Designation="السحاولة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1611" Designation="بوزريعة">
+        <Communes>
+          <Commune Code="1610" Designation="الابيار" />
+          <Commune Code="1611" Designation="بوزريعة" />
+          <Commune Code="1622" Designation="ابن عكنون" />
+          <Commune Code="1632" Designation="بني مسوس" />
+        </Communes>
+      </Daira>
+      <Daira Code="1613" Designation="الحراش">
+        <Communes>
+          <Commune Code="1613" Designation="الحراش" />
+          <Commune Code="1615" Designation="وادي السمار" />
+          <Commune Code="1616" Designation="بوروبة" />
+          <Commune Code="1619" Designation="باش جراح" />
+        </Communes>
+      </Daira>
+      <Daira Code="1614" Designation="براقي">
+        <Communes>
+          <Commune Code="1614" Designation="براقي" />
+          <Commune Code="1633" Designation="الكاليتوس" />
+          <Commune Code="1637" Designation="سيدي موسى" />
+        </Communes>
+      </Daira>
+      <Daira Code="1617" Designation="حسين داي">
+        <Communes>
+          <Commune Code="1604" Designation="محمد بلوزداد" />
+          <Commune Code="1617" Designation="حسين داي" />
+          <Commune Code="1618" Designation="القبة" />
+          <Commune Code="1627" Designation="المرادية" />
+          <Commune Code="1631" Designation="المغارية" />
+        </Communes>
+      </Daira>
+      <Daira Code="1620" Designation="الدار البيضاء">
+        <Communes>
+          <Commune Code="1620" Designation="الدار البيضاء" />
+          <Commune Code="1621" Designation="باب الزوار" />
+          <Commune Code="1629" Designation="المحمدية" />
+          <Commune Code="1630" Designation="برج الكيفان" />
+          <Commune Code="1641" Designation="عين طاية" />
+          <Commune Code="1642" Designation="برج البحري" />
+          <Commune Code="1643" Designation="المرسى" />
+        </Communes>
+      </Daira>
+      <Daira Code="1636" Designation="بئر توتة">
+        <Communes>
+          <Commune Code="1634" Designation="تسالة المرجة" />
+          <Commune Code="1635" Designation="اولاد شبل" />
+          <Commune Code="1636" Designation="بئر توتة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1638" Designation="الرويبة">
+        <Communes>
+          <Commune Code="1638" Designation="الرويبة" />
+          <Commune Code="1639" Designation="هراوة" />
+          <Commune Code="1640" Designation="رغاية" />
+        </Communes>
+      </Daira>
+      <Daira Code="1644" Designation="زرالدة">
+        <Communes>
+          <Commune Code="1644" Designation="زرالدة" />
+          <Commune Code="1646" Designation="المعالمة" />
+          <Commune Code="1650" Designation="الرحمانية" />
+          <Commune Code="1653" Designation="سطاوالي" />
+          <Commune Code="1655" Designation="سويدانية" />
+        </Communes>
+      </Daira>
+      <Daira Code="1649" Designation="الدرارية">
+        <Communes>
+          <Commune Code="1647" Designation="بابا حسن" />
+          <Commune Code="1648" Designation="الدويرة" />
+          <Commune Code="1649" Designation="الدرارية" />
+          <Commune Code="1654" Designation="العاشور" />
+          <Commune Code="1656" Designation="الخرايسية" />
+        </Communes>
+      </Daira>
+      <Daira Code="1652" Designation="الشراقة">
+        <Communes>
+          <Commune Code="1623" Designation="دالي ابراهيم" />
+          <Commune Code="1624" Designation="الحمامات" />
+          <Commune Code="1651" Designation="اولاد فايت" />
+          <Commune Code="1652" Designation="الشراقة" />
+          <Commune Code="1657" Designation="عين بنيان" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="17" Designation="الجلفة">
+    <Dairas>
+      <Daira Code="1701" Designation="الجلفة">
+        <Communes>
+          <Commune Code="1701" Designation="الجلفة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1704" Designation="حاسي بحبح">
+        <Communes>
+          <Commune Code="1704" Designation="حاسي بحبح" />
+          <Commune Code="1705" Designation="عين معبد" />
+          <Commune Code="1716" Designation="حاسي العش" />
+          <Commune Code="1728" Designation="زعفران" />
+        </Communes>
+      </Daira>
+      <Daira Code="1707" Designation="فيض البطمة">
+        <Communes>
+          <Commune Code="1707" Designation="فيض البطمة" />
+          <Commune Code="1724" Designation="أم العظام" />
+          <Commune Code="1734" Designation="عمورة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1708" Designation="بيرين">
+        <Communes>
+          <Commune Code="1708" Designation="بيرين" />
+          <Commune Code="1732" Designation="بنهار" />
+        </Communes>
+      </Daira>
+      <Daira Code="1714" Designation="الادريسية">
+        <Communes>
+          <Commune Code="1714" Designation="الادريسية" />
+          <Commune Code="1715" Designation="دويس" />
+          <Commune Code="1723" Designation="عين الشهداء" />
+        </Communes>
+      </Daira>
+      <Daira Code="1717" Designation="مسعد">
+        <Communes>
+          <Commune Code="1706" Designation="سد الرحال" />
+          <Commune Code="1717" Designation="مسعد" />
+          <Commune Code="1718" Designation="القطارة" />
+          <Commune Code="1722" Designation="سلمانة" />
+          <Commune Code="1729" Designation="دلدول" />
+        </Communes>
+      </Daira>
+      <Daira Code="1719" Designation="سيدي لعجل">
+        <Communes>
+          <Commune Code="1711" Designation="الخميس" />
+          <Commune Code="1719" Designation="سيدي لعجل" />
+          <Commune Code="1733" Designation="حاسي فدول" />
+        </Communes>
+      </Daira>
+      <Daira Code="1720" Designation="حد الصحاري">
+        <Communes>
+          <Commune Code="1709" Designation="بويرة الأحدب" />
+          <Commune Code="1720" Designation="حد الصحاري" />
+          <Commune Code="1735" Designation="عين فكة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1725" Designation="دار الشيوخ">
+        <Communes>
+          <Commune Code="1712" Designation="سيدي بايزيد" />
+          <Commune Code="1713" Designation="مليليحة" />
+          <Commune Code="1725" Designation="دار الشيوخ" />
+        </Communes>
+      </Daira>
+      <Daira Code="1726" Designation="الشارف">
+        <Communes>
+          <Commune Code="1703" Designation="القديد" />
+          <Commune Code="1726" Designation="الشارف" />
+          <Commune Code="1727" Designation="بني يعقوب" />
+        </Communes>
+      </Daira>
+      <Daira Code="1730" Designation="عين الإبل">
+        <Communes>
+          <Commune Code="1702" Designation="مجبرة" />
+          <Commune Code="1710" Designation="زكار" />
+          <Commune Code="1730" Designation="عين الإبل" />
+          <Commune Code="1736" Designation="تاعظميت" />
+        </Communes>
+      </Daira>
+      <Daira Code="1731" Designation="عين وسارة">
+        <Communes>
+          <Commune Code="1721" Designation="قرنيني" />
+          <Commune Code="1731" Designation="عين وسارة" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="18" Designation="جيجل">
+    <Dairas>
+      <Daira Code="1801" Designation="جيجل">
+        <Communes>
+          <Commune Code="1801" Designation="جيجل" />
+        </Communes>
+      </Daira>
+      <Daira Code="1803" Designation="العوانة">
+        <Communes>
+          <Commune Code="1803" Designation="العوانة" />
+          <Commune Code="1818" Designation="سلمى بن زيادة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1804" Designation="زيامة منصورية">
+        <Communes>
+          <Commune Code="1802" Designation="أراقن" />
+          <Commune Code="1804" Designation="زيامة منصورية" />
+        </Communes>
+      </Daira>
+      <Daira Code="1805" Designation="الطاهير">
+        <Communes>
+          <Commune Code="1805" Designation="الطاهير" />
+          <Commune Code="1806" Designation="الامير عبد القادر" />
+          <Commune Code="1808" Designation="الشحنة" />
+          <Commune Code="1819" Designation="بوسيف أولاد عسكري" />
+          <Commune Code="1828" Designation="وجانة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1807" Designation="الشقفة">
+        <Communes>
+          <Commune Code="1807" Designation="الشقفة" />
+          <Commune Code="1813" Designation="سيدي عبد العزيز" />
+          <Commune Code="1820" Designation="القنار نوشفي" />
+          <Commune Code="1826" Designation="برج الطهر" />
+        </Communes>
+      </Daira>
+      <Daira Code="1809" Designation="الميلية">
+        <Communes>
+          <Commune Code="1809" Designation="الميلية" />
+          <Commune Code="1821" Designation="أولاد يحيى خدروش" />
+        </Communes>
+      </Daira>
+      <Daira Code="1810" Designation="سيدي معروف">
+        <Communes>
+          <Commune Code="1810" Designation="سيدي معروف" />
+          <Commune Code="1827" Designation="أولاد رابح" />
+        </Communes>
+      </Daira>
+      <Daira Code="1811" Designation="السطارة">
+        <Communes>
+          <Commune Code="1811" Designation="السطارة" />
+          <Commune Code="1815" Designation="غبالة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1812" Designation="العنصر">
+        <Communes>
+          <Commune Code="1812" Designation="العنصر" />
+          <Commune Code="1816" Designation="بوراوي بلهادف" />
+          <Commune Code="1823" Designation="خيري واد عجول" />
+          <Commune Code="1825" Designation="الجمعة بني حبيبي" />
+        </Communes>
+      </Daira>
+      <Daira Code="1817" Designation="جيملة">
+        <Communes>
+          <Commune Code="1817" Designation="جيملة" />
+          <Commune Code="1822" Designation="بودريعة بن  يجيس" />
+        </Communes>
+      </Daira>
+      <Daira Code="1824" Designation="تاكسنة">
+        <Communes>
+          <Commune Code="1814" Designation="قاوس" />
+          <Commune Code="1824" Designation="تاكسنة" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="19" Designation="سطيف">
+    <Dairas>
+      <Daira Code="1901" Designation="سطيف">
+        <Communes>
+          <Commune Code="1901" Designation="سطيف" />
+        </Communes>
+      </Daira>
+      <Daira Code="1902" Designation="العين الكبيرة">
+        <Communes>
+          <Commune Code="1902" Designation="العين الكبيرة" />
+          <Commune Code="1915" Designation="الدهامشة" />
+          <Commune Code="1924" Designation="أولاد عدوان" />
+        </Communes>
+      </Daira>
+      <Daira Code="1903" Designation="بني عزيز">
+        <Communes>
+          <Commune Code="1903" Designation="بني عزيز" />
+          <Commune Code="1912" Designation="معاوية" />
+          <Commune Code="1949" Designation="عين السبت" />
+        </Communes>
+      </Daira>
+      <Daira Code="1908" Designation="بئر العرش">
+        <Communes>
+          <Commune Code="1908" Designation="بئر العرش" />
+          <Commune Code="1925" Designation="بلعة" />
+          <Commune Code="1945" Designation="تاشودة" />
+          <Commune Code="1959" Designation="الولجة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1916" Designation="بابور">
+        <Communes>
+          <Commune Code="1916" Designation="بابور" />
+          <Commune Code="1935" Designation="سرج الغول" />
+        </Communes>
+      </Daira>
+      <Daira Code="1917" Designation="قجال">
+        <Communes>
+          <Commune Code="1917" Designation="قجال" />
+          <Commune Code="1947" Designation="أولاد صابر" />
+        </Communes>
+      </Daira>
+      <Daira Code="1920" Designation="العلمة">
+        <Communes>
+          <Commune Code="1920" Designation="العلمة" />
+          <Commune Code="1931" Designation="بازر الصخرة" />
+          <Commune Code="1956" Designation="القتلة الزرقاء" />
+        </Communes>
+      </Daira>
+      <Daira Code="1921" Designation="جميلة">
+        <Communes>
+          <Commune Code="1921" Designation="جميلة" />
+          <Commune Code="1944" Designation="بني فودة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1922" Designation="بني ورتيلان">
+        <Communes>
+          <Commune Code="1909" Designation="بني شبانة" />
+          <Commune Code="1913" Designation="عين لقراج" />
+          <Commune Code="1922" Designation="بني ورتيلان" />
+          <Commune Code="1946" Designation="بني موحلي" />
+        </Communes>
+      </Daira>
+      <Daira Code="1926" Designation="عين أرنات">
+        <Communes>
+          <Commune Code="1914" Designation="عين عباسة" />
+          <Commune Code="1926" Designation="عين أرنات" />
+          <Commune Code="1933" Designation="مزلوق" />
+          <Commune Code="1937" Designation="الوريسية" />
+        </Communes>
+      </Daira>
+      <Daira Code="1927" Designation="عموشة">
+        <Communes>
+          <Commune Code="1927" Designation="عموشة" />
+          <Commune Code="1938" Designation="تيزي نبشار" />
+          <Commune Code="1957" Designation="وادي البارد" />
+        </Communes>
+      </Daira>
+      <Daira Code="1928" Designation="عين ولمان">
+        <Communes>
+          <Commune Code="1904" Designation="أولاد سي أحمد" />
+          <Commune Code="1928" Designation="عين ولمان" />
+          <Commune Code="1948" Designation="قلال بوطالب" />
+          <Commune Code="1952" Designation="قصر الابطال" />
+        </Communes>
+      </Daira>
+      <Daira Code="1930" Designation="بوعنداس">
+        <Communes>
+          <Commune Code="1919" Designation="بوسلام" />
+          <Commune Code="1930" Designation="بوعنداس" />
+          <Commune Code="1951" Designation="أيت نوال مزادة" />
+          <Commune Code="1954" Designation="ايت تيزي" />
+        </Communes>
+      </Daira>
+      <Daira Code="1932" Designation="حمام السخنة">
+        <Communes>
+          <Commune Code="1932" Designation="حمام السخنة" />
+          <Commune Code="1958" Designation="الطاية" />
+          <Commune Code="1960" Designation="النلعة" />
+        </Communes>
+      </Daira>
+      <Daira Code="1939" Designation="صالح باي">
+        <Communes>
+          <Commune Code="1905" Designation="بوطالب" />
+          <Commune Code="1910" Designation="أولاد تبان" />
+          <Commune Code="1911" Designation="الحامة" />
+          <Commune Code="1923" Designation="الرصفة" />
+          <Commune Code="1939" Designation="صالح باي" />
+        </Communes>
+      </Daira>
+      <Daira Code="1940" Designation="عين أزال">
+        <Communes>
+          <Commune Code="1918" Designation="عين الحجر" />
+          <Commune Code="1929" Designation="بيضاء برج" />
+          <Commune Code="1934" Designation="بئر حدادة" />
+          <Commune Code="1940" Designation="عين أزال" />
+        </Communes>
+      </Daira>
+      <Daira Code="1941" Designation="قنزات">
+        <Communes>
+          <Commune Code="1936" Designation="حربيل" />
+          <Commune Code="1941" Designation="قنزات" />
+        </Communes>
+      </Daira>
+      <Daira Code="1943" Designation="بوقاعة">
+        <Communes>
+          <Commune Code="1906" Designation="عين الروى" />
+          <Commune Code="1943" Designation="بوقاعة" />
+          <Commune Code="1953" Designation="بني وسين" />
+        </Communes>
+      </Daira>
+      <Daira Code="1950" Designation="حمام قرقور">
+        <Communes>
+          <Commune Code="1907" Designation="ذراع القبيلة" />
+          <Commune Code="1950" Designation="حمام قرقور" />
+        </Communes>
+      </Daira>
+      <Daira Code="1955" Designation="ماوكلان">
+        <Communes>
+          <Commune Code="1942" Designation="تالة إيفاسن" />
+          <Commune Code="1955" Designation="ماوكلان" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="20" Designation="سعيدة">
+    <Dairas>
+      <Daira Code="2001" Designation="سعيدة">
+        <Communes>
+          <Commune Code="2001" Designation="سعيدة" />
+        </Communes>
+      </Daira>
+      <Daira Code="2003" Designation="عين الحجر">
+        <Communes>
+          <Commune Code="2003" Designation="عين الحجر" />
+          <Commune Code="2005" Designation="مولاي العربي" />
+          <Commune Code="2012" Designation="سيدي احمد" />
+        </Communes>
+      </Daira>
+      <Daira Code="2006" Designation="يوب">
+        <Communes>
+          <Commune Code="2002" Designation="دوي ثابت" />
+          <Commune Code="2006" Designation="يوب" />
+        </Communes>
+      </Daira>
+      <Daira Code="2009" Designation="سيدي بوبكر">
+        <Communes>
+          <Commune Code="2004" Designation="أولاد خالد" />
+          <Commune Code="2007" Designation="هونت" />
+          <Commune Code="2008" Designation="سيدي عمر" />
+          <Commune Code="2009" Designation="سيدي بوبكر" />
+        </Communes>
+      </Daira>
+      <Daira Code="2010" Designation="الحساسنة">
+        <Communes>
+          <Commune Code="2010" Designation="الحساسنة" />
+          <Commune Code="2011" Designation="المعمورة" />
+          <Commune Code="2013" Designation="عين السخونة" />
+        </Communes>
+      </Daira>
+      <Daira Code="2014" Designation="أولاد إبراهيم">
+        <Communes>
+          <Commune Code="2014" Designation="أولاد إبراهيم" />
+          <Commune Code="2015" Designation="تيرسين" />
+          <Commune Code="2016" Designation="عين السلطان" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="21" Designation="سكيكدة">
+    <Dairas>
+      <Daira Code="2101" Designation="سكيكدة">
+        <Communes>
+          <Commune Code="2101" Designation="سكيكدة" />
+          <Commune Code="2130" Designation="فلفلة" />
+          <Commune Code="2137" Designation="حمادي كرومة" />
+        </Communes>
+      </Daira>
+      <Daira Code="2103" Designation="الحدائق">
+        <Communes>
+          <Commune Code="2102" Designation="عين زويت" />
+          <Commune Code="2103" Designation="الحدائق" />
+          <Commune Code="2134" Designation="بوشطاطة" />
+        </Communes>
+      </Daira>
+      <Daira Code="2104" Designation="عزابة">
+        <Communes>
+          <Commune Code="2104" Designation="عزابة" />
+          <Commune Code="2105" Designation="جندل سعيدي محمد" />
+          <Commune Code="2106" Designation="عين الشرشار" />
+          <Commune Code="2109" Designation="السبت" />
+          <Commune Code="2133" Designation="الغدير" />
+        </Communes>
+      </Daira>
+      <Daira Code="2108" Designation="بن عزوز">
+        <Communes>
+          <Commune Code="2107" Designation="بكوش الأخضر" />
+          <Commune Code="2108" Designation="بن عزوز" />
+          <Commune Code="2138" Designation="المرسى" />
+        </Communes>
+      </Daira>
+      <Daira Code="2110" Designation="القل">
+        <Communes>
+          <Commune Code="2110" Designation="القل" />
+          <Commune Code="2111" Designation="بني زيد" />
+          <Commune Code="2131" Designation="الشرائع" />
+        </Communes>
+      </Daira>
+      <Daira Code="2113" Designation="أولاد عطية">
+        <Communes>
+          <Commune Code="2113" Designation="أولاد عطية" />
+          <Commune Code="2114" Designation="وادي الزهور" />
+          <Commune Code="2136" Designation="خنق مايون" />
+        </Communes>
+      </Daira>
+      <Daira Code="2115" Designation="الزيتونة">
+        <Communes>
+          <Commune Code="2115" Designation="الزيتونة" />
+          <Commune Code="2132" Designation="قنواع" />
+        </Communes>
+      </Daira>
+      <Daira Code="2116" Designation="الحروش">
+        <Communes>
+          <Commune Code="2116" Designation="الحروش" />
+          <Commune Code="2117" Designation="زردازة" />
+          <Commune Code="2118" Designation="أولاد حبابة" />
+          <Commune Code="2120" Designation="مجاز الدشيش" />
+          <Commune Code="2125" Designation="صالح بو الشعور" />
+        </Communes>
+      </Daira>
+      <Daira Code="2119" Designation="سيدي مزغيش">
+        <Communes>
+          <Commune Code="2119" Designation="سيدي مزغيش" />
+          <Commune Code="2121" Designation="بني ولبان" />
+          <Commune Code="2122" Designation="عين بوزيان" />
+        </Communes>
+      </Daira>
+      <Daira Code="2123" Designation="ومضان جمال">
+        <Communes>
+          <Commune Code="2123" Designation="ومضان جمال" />
+          <Commune Code="2124" Designation="بني بشير" />
+        </Communes>
+      </Daira>
+      <Daira Code="2126" Designation="تمالوس">
+        <Communes>
+          <Commune Code="2112" Designation="الكركرة" />
+          <Commune Code="2126" Designation="تمالوس" />
+          <Commune Code="2129" Designation="بين الويدان" />
+        </Communes>
+      </Daira>
+      <Daira Code="2127" Designation="عين قشرة">
+        <Communes>
+          <Commune Code="2127" Designation="عين قشرة" />
+          <Commune Code="2135" Designation="الولجة بولبلوط" />
+        </Communes>
+      </Daira>
+      <Daira Code="2128" Designation="أم الطوب">
+        <Communes>
+          <Commune Code="2128" Designation="أم الطوب" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="22" Designation="سيدي بلعباس">
+    <Dairas>
+      <Daira Code="2201" Designation="سيدي بلعباس">
+        <Communes>
+          <Commune Code="2201" Designation="سيدي بلعباس" />
+        </Communes>
+      </Daira>
+      <Daira Code="2202" Designation="تسالة">
+        <Communes>
+          <Commune Code="2202" Designation="تسالة" />
+          <Commune Code="2215" Designation="عين الثريد" />
+          <Commune Code="2239" Designation="سحالة ثاورة" />
+        </Communes>
+      </Daira>
+      <Daira Code="2204" Designation="مصطفى بن ابراهي">
+        <Communes>
+          <Commune Code="2204" Designation="مصطفى بن ابراهي" />
+          <Commune Code="2213" Designation="تيلموني" />
+          <Commune Code="2233" Designation="زروالة" />
+          <Commune Code="2242" Designation="بلعربي" />
+        </Communes>
+      </Daira>
+      <Daira Code="2205" Designation="تلاغ">
+        <Communes>
+          <Commune Code="2205" Designation="تلاغ" />
+          <Commune Code="2206" Designation="مزاورو" />
+          <Commune Code="2232" Designation="الضاية" />
+          <Commune Code="2244" Designation="تغليمت" />
+        </Communes>
+      </Daira>
+      <Daira Code="2208" Designation="سيدي علي بوسيدي">
+        <Communes>
+          <Commune Code="2208" Designation="سيدي علي بوسيدي" />
+          <Commune Code="2225" Designation="عين قادة" />
+          <Commune Code="2234" Designation="لمطار" />
+          <Commune Code="2236" Designation="سيدي دحو الزاير" />
+        </Communes>
+      </Daira>
+      <Daira Code="2210" Designation="مرحوم">
+        <Communes>
+          <Commune Code="2210" Designation="مرحوم" />
+          <Commune Code="2235" Designation="سيدي شعيب" />
+          <Commune Code="2248" Designation="بئر الحمام" />
+        </Communes>
+      </Daira>
+      <Daira Code="2214" Designation="سيدي لحسن">
+        <Communes>
+          <Commune Code="2212" Designation="امرناس" />
+          <Commune Code="2214" Designation="سيدي لحسن" />
+          <Commune Code="2227" Designation="سيدي خالد" />
+          <Commune Code="2240" Designation="سيدي يعقوب" />
+        </Communes>
+      </Daira>
+      <Daira Code="2217" Designation="تنيرة">
+        <Communes>
+          <Commune Code="2217" Designation="تنيرة" />
+          <Commune Code="2243" Designation="وادي سفيون" />
+          <Commune Code="2251" Designation="بن عشيبة شلية" />
+          <Commune Code="2252" Designation="حاسي دحو" />
+        </Communes>
+      </Daira>
+      <Daira Code="2218" Designation="مولاي سليسن">
+        <Communes>
+          <Commune Code="2218" Designation="مولاي سليسن" />
+          <Commune Code="2219" Designation="الحصيبة" />
+          <Commune Code="2224" Designation="عين تندمين" />
+        </Communes>
+      </Daira>
+      <Daira Code="2222" Designation="مرين">
+        <Communes>
+          <Commune Code="2211" Designation="تافيسور" />
+          <Commune Code="2222" Designation="مرين" />
+          <Commune Code="2231" Designation="وادي تاوريرة" />
+          <Commune Code="2249" Designation="تاودموت" />
+        </Communes>
+      </Daira>
+      <Daira Code="2223" Designation="راس الماء">
+        <Communes>
+          <Commune Code="2223" Designation="راس الماء" />
+          <Commune Code="2237" Designation="وادي السبع" />
+          <Commune Code="2250" Designation="رجم دموش" />
+        </Communes>
+      </Daira>
+      <Daira Code="2228" Designation="عين البرد">
+        <Communes>
+          <Commune Code="2203" Designation="سيدي ابراهيم" />
+          <Commune Code="2216" Designation="مقدرة" />
+          <Commune Code="2228" Designation="عين البرد" />
+          <Commune Code="2241" Designation="سيدي حمادوش" />
+        </Communes>
+      </Daira>
+      <Daira Code="2229" Designation="سفيزف">
+        <Communes>
+          <Commune Code="2226" Designation="مسيد" />
+          <Commune Code="2229" Designation="سفيزف" />
+          <Commune Code="2230" Designation="عين عدان" />
+          <Commune Code="2238" Designation="بوجبع البرج" />
+        </Communes>
+      </Daira>
+      <Daira Code="2245" Designation="بن باديس">
+        <Communes>
+          <Commune Code="2209" Designation="بدر الدين المقر" />
+          <Commune Code="2220" Designation="حاسي زهانة" />
+          <Commune Code="2245" Designation="بن باديس" />
+          <Commune Code="2247" Designation="شتوان بليلة" />
+        </Communes>
+      </Daira>
+      <Daira Code="2246" Designation="سيدي علي بن يوب">
+        <Communes>
+          <Commune Code="2207" Designation="بوخنيفيس" />
+          <Commune Code="2221" Designation="طابية" />
+          <Commune Code="2246" Designation="سيدي علي بن يوب" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="23" Designation="عنابة">
+    <Dairas>
+      <Daira Code="2301" Designation="عنابة">
+        <Communes>
+          <Commune Code="2301" Designation="عنابة" />
+          <Commune Code="2308" Designation="سرايدي" />
+        </Communes>
+      </Daira>
+      <Daira Code="2302" Designation="برحال">
+        <Communes>
+          <Commune Code="2302" Designation="برحال" />
+          <Commune Code="2306" Designation="واد العنب" />
+          <Commune Code="2312" Designation="التريعات" />
+        </Communes>
+      </Daira>
+      <Daira Code="2303" Designation="الحجار">
+        <Communes>
+          <Commune Code="2303" Designation="الحجار" />
+          <Commune Code="2311" Designation="سيدي عمار" />
+        </Communes>
+      </Daira>
+      <Daira Code="2305" Designation="البوني">
+        <Communes>
+          <Commune Code="2305" Designation="البوني" />
+        </Communes>
+      </Daira>
+      <Daira Code="2309" Designation="عين الباردة">
+        <Communes>
+          <Commune Code="2304" Designation="العلمة" />
+          <Commune Code="2307" Designation="الشرف" />
+          <Commune Code="2309" Designation="عين الباردة" />
+        </Communes>
+      </Daira>
+      <Daira Code="2310" Designation="شطايبي">
+        <Communes>
+          <Commune Code="2310" Designation="شطايبي" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="24" Designation="قالمة">
+    <Dairas>
+      <Daira Code="2401" Designation="قالمة">
+        <Communes>
+          <Commune Code="2401" Designation="قالمة" />
+          <Commune Code="2411" Designation="بن جراح" />
+        </Communes>
+      </Daira>
+      <Daira Code="2404" Designation="وادي الزناتي">
+        <Communes>
+          <Commune Code="2404" Designation="وادي الزناتي" />
+          <Commune Code="2421" Designation="برج صباط" />
+          <Commune Code="2432" Designation="عين رقادة" />
+        </Communes>
+      </Daira>
+      <Daira Code="2413" Designation="عين مخلوف">
+        <Communes>
+          <Commune Code="2405" Designation="تاملوكة" />
+          <Commune Code="2413" Designation="عين مخلوف" />
+          <Commune Code="2423" Designation="عين العربي" />
+        </Communes>
+      </Daira>
+      <Daira Code="2415" Designation="لخزارة">
+        <Communes>
+          <Commune Code="2407" Designation="عين صندل" />
+          <Commune Code="2415" Designation="لخزارة" />
+          <Commune Code="2417" Designation="بوحشانة" />
+        </Communes>
+      </Daira>
+      <Daira Code="2418" Designation="قلعة بوصبع">
+        <Communes>
+          <Commune Code="2410" Designation="بلخير" />
+          <Commune Code="2416" Designation="بني مزلين" />
+          <Commune Code="2418" Designation="قلعة بوصبع" />
+          <Commune Code="2427" Designation="نشماية" />
+          <Commune Code="2431" Designation="بومهرة أحمد" />
+          <Commune Code="2434" Designation="جبالة الخميسي" />
+        </Communes>
+      </Daira>
+      <Daira Code="2419" Designation="حمام دباغ">
+        <Communes>
+          <Commune Code="2412" Designation="بوحمدان" />
+          <Commune Code="2419" Designation="حمام دباغ" />
+          <Commune Code="2428" Designation="الركنية" />
+        </Communes>
+      </Daira>
+      <Daira Code="2422" Designation="حمام النبايل">
+        <Communes>
+          <Commune Code="2409" Designation="الدهوارة" />
+          <Commune Code="2422" Designation="حمام النبايل" />
+          <Commune Code="2433" Designation="وادي الشحم" />
+        </Communes>
+      </Daira>
+      <Daira Code="2425" Designation="بوشقوف">
+        <Communes>
+          <Commune Code="2406" Designation="وادي فراغة" />
+          <Commune Code="2414" Designation="عين بن بيضاء" />
+          <Commune Code="2425" Designation="بوشقوف" />
+          <Commune Code="2430" Designation="مجاز الصفاء" />
+        </Communes>
+      </Daira>
+      <Daira Code="2426" Designation="هيليوبوليس">
+        <Communes>
+          <Commune Code="2403" Designation="بوعاتي محمود" />
+          <Commune Code="2420" Designation="الفجوج" />
+          <Commune Code="2426" Designation="هيليوبوليس" />
+        </Communes>
+      </Daira>
+      <Daira Code="2427" Designation="هواري بومدين">
+        <Communes>
+          <Commune Code="2402" Designation="هواري بومدين" />
+          <Commune Code="2408" Designation="رأس العقبة" />
+          <Commune Code="2424" Designation="مجاز عمار" />
+          <Commune Code="2429" Designation="سلاوة عنونة" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="25" Designation="قسنطينة">
+    <Dairas>
+      <Daira Code="2501" Designation="قسنطينة">
+        <Communes>
+          <Commune Code="2501" Designation="قسنطينة" />
+        </Communes>
+      </Daira>
+      <Daira Code="2502" Designation="حامة بوزيان">
+        <Communes>
+          <Commune Code="2502" Designation="حامة بوزيان" />
+          <Commune Code="2505" Designation="ديدوش مراد" />
+        </Communes>
+      </Daira>
+      <Daira Code="2504" Designation="زيغود يوسف">
+        <Communes>
+          <Commune Code="2504" Designation="زيغود يوسف" />
+          <Commune Code="2508" Designation="بني حميدان" />
+        </Communes>
+      </Daira>
+      <Daira Code="2506" Designation="الخروب">
+        <Communes>
+          <Commune Code="2506" Designation="الخروب" />
+          <Commune Code="2509" Designation="أولاد رحمون" />
+          <Commune Code="2510" Designation="عين السمارة" />
+        </Communes>
+      </Daira>
+      <Daira Code="2507" Designation="عين عبيد">
+        <Communes>
+          <Commune Code="2503" Designation="أبن باديس الهرية" />
+          <Commune Code="2507" Designation="عين عبيد" />
+        </Communes>
+      </Daira>
+      <Daira Code="2512" Designation="ابن زياد">
+        <Communes>
+          <Commune Code="2511" Designation="بوجريو مسعود" />
+          <Commune Code="2512" Designation="ابن زياد" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="26" Designation="المدية">
+    <Dairas>
+      <Daira Code="2601" Designation="المدية">
+        <Communes>
+          <Commune Code="2601" Designation="المدية" />
+          <Commune Code="2615" Designation="تمسقيدة" />
+          <Commune Code="2654" Designation="ذراع السمار" />
+        </Communes>
+      </Daira>
+      <Daira Code="2602" Designation="وزرة">
+        <Communes>
+          <Commune Code="2602" Designation="وزرة" />
+          <Commune Code="2613" Designation="تيزي مهدي" />
+          <Commune Code="2616" Designation="الحمدانية" />
+          <Commune Code="2630" Designation="بن شكاو" />
+        </Communes>
+      </Daira>
+      <Daira Code="2604" Designation="عين بوسيف">
+        <Communes>
+          <Commune Code="2603" Designation="أولاد معروف" />
+          <Commune Code="2604" Designation="عين بوسيف" />
+          <Commune Code="2617" Designation="الكاف الاخضر" />
+          <Commune Code="2631" Designation="سيدي دامد" />
+          <Commune Code="2657" Designation="العوينات" />
+        </Communes>
+      </Daira>
+      <Daira Code="2607" Designation="العمرية">
+        <Communes>
+          <Commune Code="2607" Designation="العمرية" />
+          <Commune Code="2612" Designation="أولاد إبراهيم" />
+          <Commune Code="2624" Designation="بعطة" />
+        </Communes>
+      </Daira>
+      <Daira Code="2609" Designation="القلب الكبير">
+        <Communes>
+          <Commune Code="2609" Designation="القلب الكبير" />
+          <Commune Code="2656" Designation="بئر بن عابد" />
+          <Commune Code="2661" Designation="سدراية" />
+        </Communes>
+      </Daira>
+      <Daira Code="2618" Designation="شلالة العذاورة">
+        <Communes>
+          <Commune Code="2618" Designation="شلالة العذاورة" />
+          <Commune Code="2623" Designation="تفراوت" />
+          <Commune Code="2640" Designation="شنيقل" />
+          <Commune Code="2641" Designation="عين القصيرة" />
+        </Communes>
+      </Daira>
+      <Daira Code="2626" Designation="سيدي نعمان">
+        <Communes>
+          <Commune Code="2621" Designation="بوشراحيل" />
+          <Commune Code="2626" Designation="سيدي نعمان" />
+          <Commune Code="2663" Designation="خمس جوامع" />
+        </Communes>
+      </Daira>
+      <Daira Code="2632" Designation="عزيز">
+        <Communes>
+          <Commune Code="2608" Designation="دراق" />
+          <Commune Code="2632" Designation="عزيز" />
+          <Commune Code="2642" Designation="أم الجليل" />
+        </Communes>
+      </Daira>
+      <Daira Code="2633" Designation="السواقي">
+        <Communes>
+          <Commune Code="2614" Designation="سيدي زيان" />
+          <Commune Code="2628" Designation="سيدي زهار" />
+          <Commune Code="2633" Designation="السواقي" />
+          <Commune Code="2637" Designation="جواب" />
+        </Communes>
+      </Daira>
+      <Daira Code="2635" Designation="قصر البخاري">
+        <Communes>
+          <Commune Code="2635" Designation="قصر البخاري" />
+          <Commune Code="2649" Designation="مفتاح" />
+          <Commune Code="2664" Designation="السائق" />
+        </Communes>
+      </Daira>
+      <Daira Code="2636" Designation="العزيزية">
+        <Communes>
+          <Commune Code="2636" Designation="العزيزية" />
+          <Commune Code="2639" Designation="مغراوة" />
+          <Commune Code="2650" Designation="ميهوب" />
+        </Communes>
+      </Daira>
+      <Daira Code="2638" Designation="الشهبونية">
+        <Communes>
+          <Commune Code="2610" Designation="بوعيش" />
+          <Commune Code="2638" Designation="الشهبونية" />
+          <Commune Code="2651" Designation="بوغزول" />
+        </Communes>
+      </Daira>
+      <Daira Code="2643" Designation="عوامري">
+        <Communes>
+          <Commune Code="2629" Designation="وادي حربيل" />
+          <Commune Code="2643" Designation="عوامري" />
+          <Commune Code="2660" Designation="حناشة" />
+        </Communes>
+      </Daira>
+      <Daira Code="2644" Designation="سي المحجوب">
+        <Communes>
+          <Commune Code="2627" Designation="أولاد بوعشرة" />
+          <Commune Code="2644" Designation="سي المحجوب" />
+          <Commune Code="2659" Designation="بوعيشون" />
+        </Communes>
+      </Daira>
+      <Daira Code="2646" Designation="بني سليمان">
+        <Communes>
+          <Commune Code="2619" Designation="بوسكن" />
+          <Commune Code="2646" Designation="بني سليمان" />
+          <Commune Code="2655" Designation="سيدي الربيع" />
+        </Communes>
+      </Daira>
+      <Daira Code="2647" Designation="البرواقية">
+        <Communes>
+          <Commune Code="2606" Designation="أولاد دايد" />
+          <Commune Code="2620" Designation="الربعية" />
+          <Commune Code="2647" Designation="البرواقية" />
+        </Communes>
+      </Daira>
+      <Daira Code="2648" Designation="سغوان">
+        <Communes>
+          <Commune Code="2634" Designation="الزبيرية" />
+          <Commune Code="2645" Designation="ثلاث دوائر" />
+          <Commune Code="2648" Designation="سغوان" />
+          <Commune Code="2662" Designation="مجبر" />
+        </Communes>
+      </Daira>
+      <Daira Code="2652" Designation="تابلاط">
+        <Communes>
+          <Commune Code="2605" Designation="العيساوية" />
+          <Commune Code="2611" Designation="مزغنة" />
+          <Commune Code="2652" Designation="تابلاط" />
+          <Commune Code="2653" Designation="الحوضان" />
+        </Communes>
+      </Daira>
+      <Daira Code="2658" Designation="أولاد عنتر">
+        <Communes>
+          <Commune Code="2622" Designation="أولاد هلال" />
+          <Commune Code="2625" Designation="بوغار" />
+          <Commune Code="2658" Designation="أولاد عنتر" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="27" Designation="مستغانم">
+    <Dairas>
+      <Daira Code="2701" Designation="مستغانم">
+        <Communes>
+          <Commune Code="2701" Designation="مستغانم" />
+        </Communes>
+      </Daira>
+      <Daira Code="2705" Designation="عين نويسي">
+        <Communes>
+          <Commune Code="2703" Designation="فرناقة" />
+          <Commune Code="2705" Designation="عين نويسي" />
+          <Commune Code="2732" Designation="الحسيان (بني ياحي" />
+        </Communes>
+      </Daira>
+      <Daira Code="2706" Designation="حاسي معمش">
+        <Communes>
+          <Commune Code="2704" Designation="ستيدية" />
+          <Commune Code="2706" Designation="حاسي معمش" />
+          <Commune Code="2727" Designation="مزغران" />
+        </Communes>
+      </Daira>
+      <Daira Code="2707" Designation="عين تادلس">
+        <Communes>
+          <Commune Code="2707" Designation="عين تادلس" />
+          <Commune Code="2708" Designation="سور" />
+          <Commune Code="2709" Designation="وادي الخير" />
+          <Commune Code="2710" Designation="سيدي بلعطار" />
+        </Communes>
+      </Daira>
+      <Daira Code="2711" Designation="خير الدين">
+        <Communes>
+          <Commune Code="2702" Designation="صيادة" />
+          <Commune Code="2711" Designation="خير الدين" />
+          <Commune Code="2728" Designation="عين بودينار" />
+        </Communes>
+      </Daira>
+      <Daira Code="2712" Designation="سيدي علي">
+        <Communes>
+          <Commune Code="2712" Designation="سيدي علي" />
+          <Commune Code="2726" Designation="أولاد مع الله" />
+          <Commune Code="2729" Designation="تزقايت" />
+        </Communes>
+      </Daira>
+      <Daira Code="2716" Designation="سيدي لخضر">
+        <Communes>
+          <Commune Code="2713" Designation="بن عبد المالك رمضان" />
+          <Commune Code="2714" Designation="حجاج" />
+          <Commune Code="2716" Designation="سيدي لخضر" />
+        </Communes>
+      </Daira>
+      <Daira Code="2717" Designation="عشعاشة">
+        <Communes>
+          <Commune Code="2715" Designation="نكمارية" />
+          <Commune Code="2717" Designation="عشعاشة" />
+          <Commune Code="2718" Designation="خضراء" />
+          <Commune Code="2725" Designation="أولاد بوغالم" />
+        </Communes>
+      </Daira>
+      <Daira Code="2719" Designation="بوقيراط">
+        <Communes>
+          <Commune Code="2719" Designation="بوقيراط" />
+          <Commune Code="2720" Designation="سيرات" />
+          <Commune Code="2724" Designation="السوافلية" />
+          <Commune Code="2730" Designation="صفصاف" />
+        </Communes>
+      </Daira>
+      <Daira Code="2722" Designation="ماسرة">
+        <Communes>
+          <Commune Code="2721" Designation="عين سيدي الشريف" />
+          <Commune Code="2722" Designation="ماسرة" />
+          <Commune Code="2723" Designation="منصورة" />
+          <Commune Code="2731" Designation="الطواهرية" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="28" Designation="المسيلة">
+    <Dairas>
+      <Daira Code="2801" Designation="المسيلة">
+        <Communes>
+          <Commune Code="2801" Designation="المسيلة" />
+        </Communes>
+      </Daira>
+      <Daira Code="2803" Designation="حمام الضلعة">
+        <Communes>
+          <Commune Code="2803" Designation="حمام الضلعة" />
+          <Commune Code="2805" Designation="تارمونت" />
+          <Commune Code="2819" Designation="ونوغة" />
+          <Commune Code="2828" Designation="أولاد منصور" />
+        </Communes>
+      </Daira>
+      <Daira Code="2804" Designation="أولاد دراج">
+        <Communes>
+          <Commune Code="2802" Designation="المعاضيد" />
+          <Commune Code="2804" Designation="أولاد دراج" />
+          <Commune Code="2806" Designation="المطارفة" />
+          <Commune Code="2814" Designation="أولاد عدي قبالة" />
+          <Commune Code="2840" Designation="السوامع" />
+        </Communes>
+      </Daira>
+      <Daira Code="2807" Designation="خبانة">
+        <Communes>
+          <Commune Code="2807" Designation="خبانة" />
+          <Commune Code="2808" Designation="مصيف" />
+          <Commune Code="2826" Designation="الحوامد" />
+        </Communes>
+      </Daira>
+      <Daira Code="2809" Designation="شلال">
+        <Communes>
+          <Commune Code="2809" Designation="شلال" />
+          <Commune Code="2810" Designation="أولاد ماضي" />
+          <Commune Code="2829" Designation="معاريف" />
+          <Commune Code="2832" Designation="ختوتي سد الجير" />
+        </Communes>
+      </Daira>
+      <Daira Code="2811" Designation="مقرة">
+        <Communes>
+          <Commune Code="2811" Designation="مقرة" />
+          <Commune Code="2812" Designation="برهوم" />
+          <Commune Code="2813" Designation="عين خضراء" />
+          <Commune Code="2815" Designation="بلعايبة" />
+          <Commune Code="2830" Designation="دهاهنة" />
+        </Communes>
+      </Daira>
+      <Daira Code="2816" Designation="سيدي عيسى">
+        <Communes>
+          <Commune Code="2816" Designation="سيدي عيسى" />
+          <Commune Code="2831" Designation="بوطي السياح" />
+          <Commune Code="2845" Designation="بني يلمان" />
+        </Communes>
+      </Daira>
+      <Daira Code="2817" Designation="عين الحجل">
+        <Communes>
+          <Commune Code="2817" Designation="عين الحجل" />
+          <Commune Code="2818" Designation="سيدي هجرس" />
+        </Communes>
+      </Daira>
+      <Daira Code="2820" Designation="بوسعادة">
+        <Communes>
+          <Commune Code="2820" Designation="بوسعادة" />
+          <Commune Code="2827" Designation="الهامل" />
+          <Commune Code="2846" Designation="ولتام" />
+        </Communes>
+      </Daira>
+      <Daira Code="2821" Designation="أولاد سيدي ابراهيم">
+        <Communes>
+          <Commune Code="2821" Designation="أولاد سيدي ابراهيم" />
+          <Commune Code="2835" Designation="بن زوه" />
+        </Communes>
+      </Daira>
+      <Daira Code="2822" Designation="سيدي عامر">
+        <Communes>
+          <Commune Code="2822" Designation="سيدي عامر" />
+          <Commune Code="2823" Designation="تامسة" />
+        </Communes>
+      </Daira>
+      <Daira Code="2824" Designation="ابن سرور">
+        <Communes>
+          <Commune Code="2824" Designation="ابن سرور" />
+          <Commune Code="2825" Designation="أولاد سليمان" />
+          <Commune Code="2833" Designation="زرزور" />
+          <Commune Code="2834" Designation="محمد بوضياف" />
+        </Communes>
+      </Daira>
+      <Daira Code="2841" Designation="عين الملح">
+        <Communes>
+          <Commune Code="2836" Designation="بئر الفضة" />
+          <Commune Code="2837" Designation="عين فارس" />
+          <Commune Code="2838" Designation="سيدي أحمد" />
+          <Commune Code="2841" Designation="عين الملح" />
+          <Commune Code="2844" Designation="عين الريش" />
+        </Communes>
+      </Daira>
+      <Daira Code="2842" Designation="مجدل">
+        <Communes>
+          <Commune Code="2839" Designation="منعة -أولاد عطية" />
+          <Commune Code="2842" Designation="مجدل" />
+        </Communes>
+      </Daira>
+      <Daira Code="2847" Designation="جبل مساعد">
+        <Communes>
+          <Commune Code="2843" Designation="سليم" />
+          <Commune Code="2847" Designation="جبل مساعد" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="29" Designation="معسكر">
+    <Dairas>
+      <Daira Code="2901" Designation="معسكر">
+        <Communes>
+          <Commune Code="2901" Designation="معسكر" />
+        </Communes>
+      </Daira>
+      <Daira Code="2902" Designation="بوحنيفية">
+        <Communes>
+          <Commune Code="2902" Designation="بوحنيفية" />
+          <Commune Code="2904" Designation="حسين" />
+          <Commune Code="2938" Designation="القطنة" />
+        </Communes>
+      </Daira>
+      <Daira Code="2903" Designation="تيزي">
+        <Communes>
+          <Commune Code="2903" Designation="تيزي" />
+          <Commune Code="2913" Designation="فروحة" />
+          <Commune Code="2940" Designation="القرط" />
+        </Communes>
+      </Daira>
+      <Daira Code="2906" Designation="تيغنيف">
+        <Communes>
+          <Commune Code="2906" Designation="تيغنيف" />
+          <Commune Code="2908" Designation="سيدي قادة" />
+          <Commune Code="2947" Designation="السهايلية" />
+        </Communes>
+      </Daira>
+      <Daira Code="2907" Designation="الحشم">
+        <Communes>
+          <Commune Code="2907" Designation="الحشم" />
+          <Commune Code="2909" Designation="زلامطة" />
+          <Commune Code="2945" Designation="نسمط" />
+        </Communes>
+      </Daira>
+      <Daira Code="2910" Designation="وادي الأبطال">
+        <Communes>
+          <Commune Code="2910" Designation="وادي الأبطال" />
+          <Commune Code="2911" Designation="عين فراح" />
+          <Commune Code="2946" Designation="سيدي عبد الجبار" />
+        </Communes>
+      </Daira>
+      <Daira Code="2912" Designation="غريس">
+        <Communes>
+          <Commune Code="2905" Designation="ماوسة" />
+          <Commune Code="2912" Designation="غريس" />
+          <Commune Code="2914" Designation="المطمور" />
+          <Commune Code="2915" Designation="ماقضة" />
+          <Commune Code="2916" Designation="سيدي بوسعيد" />
+        </Communes>
+      </Daira>
+      <Daira Code="2917" Designation="البرج">
+        <Communes>
+          <Commune Code="2917" Designation="البرج" />
+          <Commune Code="2920" Designation="خلوية" />
+          <Commune Code="2921" Designation="المنور" />
+        </Communes>
+      </Daira>
+      <Daira Code="2918" Designation="عين فكان">
+        <Communes>
+          <Commune Code="2918" Designation="عين فكان" />
+          <Commune Code="2925" Designation="عين الفرس" />
+        </Communes>
+      </Daira>
+      <Daira Code="2922" Designation="وادي تاغية">
+        <Communes>
+          <Commune Code="2922" Designation="وادي تاغية" />
+          <Commune Code="2942" Designation="قرجوم" />
+        </Communes>
+      </Daira>
+      <Daira Code="2923" Designation="عوف">
+        <Communes>
+          <Commune Code="2919" Designation="بنيان" />
+          <Commune Code="2923" Designation="عوف" />
+          <Commune Code="2941" Designation="غروس" />
+        </Communes>
+      </Daira>
+      <Daira Code="2924" Designation="عين فارس">
+        <Communes>
+          <Commune Code="2924" Designation="عين فارس" />
+          <Commune Code="2939" Designation="المأمونية" />
+        </Communes>
+      </Daira>
+      <Daira Code="2926" Designation="سيق">
+        <Communes>
+          <Commune Code="2926" Designation="سيق" />
+          <Commune Code="2937" Designation="بوهني" />
+          <Commune Code="2943" Designation="الشرفاء" />
+        </Communes>
+      </Daira>
+      <Daira Code="2927" Designation="عكاز">
+        <Communes>
+          <Commune Code="2927" Designation="عكاز" />
+          <Commune Code="2928" Designation="العلايمية" />
+          <Commune Code="2944" Designation="رأس عين عميروش" />
+        </Communes>
+      </Daira>
+      <Daira Code="2930" Designation="زهانة">
+        <Communes>
+          <Commune Code="2929" Designation="القعدة" />
+          <Commune Code="2930" Designation="زهانة" />
+        </Communes>
+      </Daira>
+      <Daira Code="2931" Designation="المحمدية">
+        <Communes>
+          <Commune Code="2931" Designation="المحمدية" />
+          <Commune Code="2932" Designation="سيدي عبد المومن" />
+          <Commune Code="2933" Designation="فراقيق" />
+          <Commune Code="2934" Designation="الغمري" />
+          <Commune Code="2935" Designation="سجرارة" />
+          <Commune Code="2936" Designation="مقطع الدوز" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="30" Designation="ورقلة">
+    <Dairas>
+      <Daira Code="3001" Designation="ورقلة">
+        <Communes>
+          <Commune Code="3001" Designation="ورقلة" />
+          <Commune Code="3005" Designation="الرويسات" />
+        </Communes>
+      </Daira>
+      <Daira Code="3003" Designation="انقوسة">
+        <Communes>
+          <Commune Code="3003" Designation="انقوسة" />
+        </Communes>
+      </Daira>
+      <Daira Code="3004" Designation="حاسي مسعود">
+        <Communes>
+          <Commune Code="3004" Designation="حاسي مسعود" />
+        </Communes>
+      </Daira>
+      <Daira Code="3011" Designation="سيدي خويلد">
+        <Communes>
+          <Commune Code="3002" Designation="عين البيضاء" />
+          <Commune Code="3011" Designation="سيدي خويلد" />
+          <Commune Code="3012" Designation="حاسي بن عبد الله" />
+        </Communes>
+      </Daira>
+      <Daira Code="3013" Designation="تقرت">
+        <Communes>
+          <Commune Code="3007" Designation="تبسبست" />
+          <Commune Code="3008" Designation="النزلة" />
+          <Commune Code="3009" Designation="الزاوية العابدية" />
+          <Commune Code="3013" Designation="تقرت" />
+        </Communes>
+      </Daira>
+      <Daira Code="3014" Designation="الحجيرة">
+        <Communes>
+          <Commune Code="3014" Designation="الحجيرة" />
+          <Commune Code="3020" Designation="العالية" />
+        </Communes>
+      </Daira>
+      <Daira Code="3015" Designation="الطيبات">
+        <Communes>
+          <Commune Code="3015" Designation="الطيبات" />
+          <Commune Code="3017" Designation="إبن ناصر" />
+          <Commune Code="3018" Designation="المنقر" />
+        </Communes>
+      </Daira>
+      <Daira Code="3016" Designation="نماسين">
+        <Communes>
+          <Commune Code="3006" Designation="بلدة اعمر" />
+          <Commune Code="3016" Designation="نماسين" />
+        </Communes>
+      </Daira>
+      <Daira Code="3019" Designation="المقارين">
+        <Communes>
+          <Commune Code="3010" Designation="سيدي سليمان" />
+          <Commune Code="3019" Designation="المقارين" />
+        </Communes>
+      </Daira>
+      <Daira Code="3021" Designation="البرمة">
+        <Communes>
+          <Commune Code="3021" Designation="البرمة" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="31" Designation="وهران">
+    <Dairas>
+      <Daira Code="3101" Designation="وهران">
+        <Communes>
+          <Commune Code="3101" Designation="وهران" />
+        </Communes>
+      </Daira>
+      <Daira Code="3102" Designation="قديل">
+        <Communes>
+          <Commune Code="3102" Designation="قديل" />
+          <Commune Code="3120" Designation="بن فريحة" />
+          <Commune Code="3121" Designation="حاسي مفسوخ" />
+        </Communes>
+      </Daira>
+      <Daira Code="3103" Designation="بئر الجير">
+        <Communes>
+          <Commune Code="3103" Designation="بئر الجير" />
+          <Commune Code="3104" Designation="حاسي بونيف" />
+          <Commune Code="3119" Designation="حاسي بن عقبة" />
+        </Communes>
+      </Daira>
+      <Daira Code="3105" Designation="السانية">
+        <Communes>
+          <Commune Code="3105" Designation="السانية" />
+          <Commune Code="3113" Designation="سيدي الشحمي" />
+          <Commune Code="3117" Designation="الكرمة" />
+        </Communes>
+      </Daira>
+      <Daira Code="3106" Designation="أرزيو">
+        <Communes>
+          <Commune Code="3106" Designation="أرزيو" />
+          <Commune Code="3122" Designation="سيدي بن يبقى" />
+        </Communes>
+      </Daira>
+      <Daira Code="3107" Designation="بطيوة">
+        <Communes>
+          <Commune Code="3107" Designation="بطيوة" />
+          <Commune Code="3108" Designation="مرسى الحجاج" />
+          <Commune Code="3126" Designation="عين البية" />
+        </Communes>
+      </Daira>
+      <Daira Code="3109" Designation="عين الترك">
+        <Communes>
+          <Commune Code="3109" Designation="عين الترك" />
+          <Commune Code="3110" Designation="العنصر" />
+          <Commune Code="3115" Designation="المرسى الكبير" />
+          <Commune Code="3116" Designation="بوصفر" />
+        </Communes>
+      </Daira>
+      <Daira Code="3111" Designation="وادي تليلات">
+        <Communes>
+          <Commune Code="3111" Designation="وادي تليلات" />
+          <Commune Code="3112" Designation="طفراوي" />
+          <Commune Code="3114" Designation="بوفتيس" />
+          <Commune Code="3118" Designation="البراية" />
+        </Communes>
+      </Daira>
+      <Daira Code="3124" Designation="بوتليليس">
+        <Communes>
+          <Commune Code="3123" Designation="مسرغين" />
+          <Commune Code="3124" Designation="بوتليليس" />
+          <Commune Code="3125" Designation="عين الكرمة" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="32" Designation="البيض">
+    <Dairas>
+      <Daira Code="3201" Designation="البيض">
+        <Communes>
+          <Commune Code="3201" Designation="البيض" />
+        </Communes>
+      </Daira>
+      <Daira Code="3202" Designation="رقاصة">
+        <Communes>
+          <Commune Code="3202" Designation="رقاصة" />
+          <Commune Code="3212" Designation="الكاف الأحمر" />
+          <Commune Code="3217" Designation="الشقيق" />
+        </Communes>
+      </Daira>
+      <Daira Code="3204" Designation="بريزينة">
+        <Communes>
+          <Commune Code="3204" Designation="بريزينة" />
+          <Commune Code="3205" Designation="غسول" />
+          <Commune Code="3215" Designation="كراكدة" />
+        </Communes>
+      </Daira>
+      <Daira Code="3206" Designation="بوعلام">
+        <Communes>
+          <Commune Code="3203" Designation="ستيتن" />
+          <Commune Code="3206" Designation="بوعلام" />
+          <Commune Code="3218" Designation="سيدي عمر" />
+          <Commune Code="3221" Designation="سيدي سليمان" />
+          <Commune Code="3222" Designation="سيدي طيفور" />
+        </Communes>
+      </Daira>
+      <Daira Code="3207" Designation="الأبيض سيدي الشيخ">
+        <Communes>
+          <Commune Code="3207" Designation="الأبيض سيدي الشيخ" />
+          <Commune Code="3208" Designation="عين العراك" />
+          <Commune Code="3209" Designation="اربوات" />
+          <Commune Code="3216" Designation="البنود" />
+        </Communes>
+      </Daira>
+      <Daira Code="3210" Designation="بوقطب">
+        <Communes>
+          <Commune Code="3210" Designation="بوقطب" />
+          <Commune Code="3211" Designation="الخيثر" />
+          <Commune Code="3220" Designation="توسمولين" />
+        </Communes>
+      </Daira>
+      <Daira Code="3213" Designation="بوسمغون">
+        <Communes>
+          <Commune Code="3213" Designation="بوسمغون" />
+        </Communes>
+      </Daira>
+      <Daira Code="3214" Designation="شلالة">
+        <Communes>
+          <Commune Code="3214" Designation="شلالة" />
+          <Commune Code="3219" Designation="المحرة" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="33" Designation="إيليزي">
+    <Dairas>
+      <Daira Code="3301" Designation="إيليزي">
+        <Communes>
+          <Commune Code="3301" Designation="إيليزي" />
+        </Communes>
+      </Daira>
+      <Daira Code="3302" Designation="جانت">
+        <Communes>
+          <Commune Code="3302" Designation="جانت" />
+          <Commune Code="3305" Designation="برج الحواس" />
+        </Communes>
+      </Daira>
+      <Daira Code="3306" Designation="عين أميناس">
+        <Communes>
+          <Commune Code="3303" Designation="دبداب" />
+          <Commune Code="3304" Designation="برج عمر إدريس" />
+          <Commune Code="3306" Designation="إن أميناس" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="34" Designation="برج بوعريرج">
+    <Dairas>
+      <Daira Code="3401" Designation="برج بوعريرج">
+        <Communes>
+          <Commune Code="3401" Designation="برج بوعريرج" />
+        </Communes>
+      </Daira>
+      <Daira Code="3402" Designation="رأس الوادي">
+        <Communes>
+          <Commune Code="3402" Designation="رأس الوادي" />
+          <Commune Code="3417" Designation="أولاد أبراهيم" />
+          <Commune Code="3430" Designation="عين تسرة" />
+        </Communes>
+      </Daira>
+      <Daira Code="3403" Designation="برج زمورة">
+        <Communes>
+          <Commune Code="3403" Designation="برج زمورة" />
+          <Commune Code="3418" Designation="أولاد دحمان" />
+          <Commune Code="3429" Designation="تسامرت" />
+        </Communes>
+      </Daira>
+      <Daira Code="3404" Designation="المنصورة">
+        <Communes>
+          <Commune Code="3404" Designation="المنصورة" />
+          <Commune Code="3405" Designation="المهير" />
+          <Commune Code="3406" Designation="بن داود" />
+          <Commune Code="3423" Designation="أولاد سيدي ابراهيم" />
+          <Commune Code="3434" Designation="حرازة" />
+        </Communes>
+      </Daira>
+      <Daira Code="3408" Designation="عين تاغروت">
+        <Communes>
+          <Commune Code="3408" Designation="عين تاغروت" />
+          <Commune Code="3426" Designation="تيكستار" />
+        </Communes>
+      </Daira>
+      <Daira Code="3409" Designation="برج غدير">
+        <Communes>
+          <Commune Code="3409" Designation="برج غدير" />
+          <Commune Code="3412" Designation="بليمور" />
+          <Commune Code="3421" Designation="تقلعيت" />
+          <Commune Code="3428" Designation="العناصر" />
+          <Commune Code="3432" Designation="غيلاسة" />
+        </Communes>
+      </Daira>
+      <Daira Code="3411" Designation="الحمادية">
+        <Communes>
+          <Commune Code="3411" Designation="الحمادية" />
+          <Commune Code="3422" Designation="القصور" />
+          <Commune Code="3427" Designation="العش" />
+          <Commune Code="3433" Designation="الرابطة" />
+        </Communes>
+      </Daira>
+      <Daira Code="3413" Designation="مجانة">
+        <Communes>
+          <Commune Code="3407" Designation="الياشير" />
+          <Commune Code="3413" Designation="مجانة" />
+          <Commune Code="3414" Designation="ثنية النصر" />
+          <Commune Code="3419" Designation="حسناوة" />
+        </Communes>
+      </Daira>
+      <Daira Code="3415" Designation="الجعافرة">
+        <Communes>
+          <Commune Code="3415" Designation="الجعافرة" />
+          <Commune Code="3416" Designation="الماين" />
+          <Commune Code="3424" Designation="تفرق" />
+          <Commune Code="3425" Designation="القلة" />
+        </Communes>
+      </Daira>
+      <Daira Code="3431" Designation="بئر قصد علي">
+        <Communes>
+          <Commune Code="3410" Designation="سيدي مبارك" />
+          <Commune Code="3420" Designation="خليل" />
+          <Commune Code="3431" Designation="بئر قصد علي" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="35" Designation="بومرداس">
+    <Dairas>
+      <Daira Code="3501" Designation="بومرداس">
+        <Communes>
+          <Commune Code="3501" Designation="بومرداس" />
+          <Commune Code="3512" Designation="تيجلابين" />
+          <Commune Code="3516" Designation="قورصو" />
+        </Communes>
+      </Daira>
+      <Daira Code="3502" Designation="بودواو">
+        <Communes>
+          <Commune Code="3502" Designation="بودواو" />
+          <Commune Code="3519" Designation="بوزقرة قدارة" />
+          <Commune Code="3527" Designation="بودواو البحري" />
+          <Commune Code="3528" Designation="أولاد هداج" />
+          <Commune Code="3532" Designation="الخروبة" />
+        </Communes>
+      </Daira>
+      <Daira Code="3504" Designation="برج منايل">
+        <Communes>
+          <Commune Code="3504" Designation="برج منايل" />
+          <Commune Code="3508" Designation="جينات" />
+          <Commune Code="3510" Designation="زموري" />
+          <Commune Code="3529" Designation="لقاطة" />
+        </Communes>
+      </Daira>
+      <Daira Code="3505" Designation="بغلية">
+        <Communes>
+          <Commune Code="3505" Designation="بغلية" />
+          <Commune Code="3506" Designation="سيدي داود" />
+          <Commune Code="3520" Designation="تورقة" />
+        </Communes>
+      </Daira>
+      <Daira Code="3507" Designation="الناصرية">
+        <Communes>
+          <Commune Code="3507" Designation="الناصرية" />
+          <Commune Code="3521" Designation="أولاد عيسى" />
+        </Communes>
+      </Daira>
+      <Daira Code="3509" Designation="يسر">
+        <Communes>
+          <Commune Code="3509" Designation="يسر" />
+          <Commune Code="3511" Designation="سي مصطفى" />
+          <Commune Code="3513" Designation="شعبة العامر" />
+          <Commune Code="3515" Designation="تمزريت" />
+        </Communes>
+      </Daira>
+      <Daira Code="3514" Designation="الثنية">
+        <Communes>
+          <Commune Code="3514" Designation="الثنية" />
+          <Commune Code="3524" Designation="عمال" />
+          <Commune Code="3525" Designation="بني عمران" />
+          <Commune Code="3526" Designation="سوق الأحد" />
+        </Communes>
+      </Daira>
+      <Daira Code="3523" Designation="دلس">
+        <Communes>
+          <Commune Code="3503" Designation="أعفير" />
+          <Commune Code="3522" Designation="بن شود" />
+          <Commune Code="3523" Designation="دلس" />
+        </Communes>
+      </Daira>
+      <Daira Code="3531" Designation="خميس الخشنة">
+        <Communes>
+          <Commune Code="3517" Designation="أولاد موسى" />
+          <Commune Code="3518" Designation="الاربعطاش" />
+          <Commune Code="3530" Designation="حمادي" />
+          <Commune Code="3531" Designation="خميس الخشنة" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="36" Designation="الطارف">
+    <Dairas>
+      <Daira Code="3601" Designation="الطارف">
+        <Communes>
+          <Commune Code="3601" Designation="الطارف" />
+          <Commune Code="3604" Designation="بوقوس" />
+          <Commune Code="3606" Designation="عين العسل" />
+          <Commune Code="3620" Designation="الزيتونة" />
+        </Communes>
+      </Daira>
+      <Daira Code="3602" Designation="بوحجار">
+        <Communes>
+          <Commune Code="3602" Designation="بوحجار" />
+          <Commune Code="3621" Designation="عين الكرمة" />
+          <Commune Code="3622" Designation="وادي الزيتون" />
+          <Commune Code="3623" Designation="حمام بن صالح" />
+        </Communes>
+      </Daira>
+      <Daira Code="3603" Designation="ابن مهيدي">
+        <Communes>
+          <Commune Code="3603" Designation="ابن مهيدي" />
+          <Commune Code="3610" Designation="بريحان" />
+          <Commune Code="3618" Designation="الشط" />
+        </Communes>
+      </Daira>
+      <Daira Code="3605" Designation="القالة">
+        <Communes>
+          <Commune Code="3605" Designation="القالة" />
+          <Commune Code="3607" Designation="العيون" />
+          <Commune Code="3609" Designation="السواريخ" />
+          <Commune Code="3624" Designation="رمل السوق" />
+        </Communes>
+      </Daira>
+      <Daira Code="3608" Designation="بوثلجة">
+        <Communes>
+          <Commune Code="3608" Designation="بوثلجة" />
+          <Commune Code="3611" Designation="بحيرة الطيور" />
+          <Commune Code="3612" Designation="الشافية" />
+        </Communes>
+      </Daira>
+      <Daira Code="3613" Designation="الذرغان">
+        <Communes>
+          <Commune Code="3613" Designation="الذرغان" />
+          <Commune Code="3614" Designation="شهاني" />
+          <Commune Code="3615" Designation="شبايطة مختار" />
+        </Communes>
+      </Daira>
+      <Daira Code="3616" Designation="البسباس">
+        <Communes>
+          <Commune Code="3616" Designation="البسباس" />
+          <Commune Code="3617" Designation="عصفور" />
+          <Commune Code="3619" Designation="زريزر" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="37" Designation="تندوف">
+    <Dairas>
+      <Daira Code="3701" Designation="تندوف">
+        <Communes>
+          <Commune Code="3701" Designation="تندوف" />
+          <Commune Code="3702" Designation="أم العسل" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="38" Designation="تيسمسيلت">
+    <Dairas>
+      <Daira Code="3801" Designation="تيسمسيلت">
+        <Communes>
+          <Commune Code="3801" Designation="تيسمسيلت" />
+          <Commune Code="3812" Designation="أولاد بسام" />
+        </Communes>
+      </Daira>
+      <Daira Code="3802" Designation="برج بونعامة">
+        <Communes>
+          <Commune Code="3802" Designation="برج بونعامة" />
+          <Commune Code="3805" Designation="بني شعيب" />
+          <Commune Code="3820" Designation="سيدي سليمان" />
+          <Commune Code="3822" Designation="بني لحسن" />
+        </Communes>
+      </Daira>
+      <Daira Code="3803" Designation="ثنية الاحد">
+        <Communes>
+          <Commune Code="3803" Designation="ثنية الاحد" />
+          <Commune Code="3815" Designation="سيدي بوتوشنت" />
+        </Communes>
+      </Daira>
+      <Daira Code="3804" Designation="الأزهرية">
+        <Communes>
+          <Commune Code="3804" Designation="الأزهرية" />
+          <Commune Code="3816" Designation="الأربعاء" />
+          <Commune Code="3821" Designation="بوقايد" />
+        </Communes>
+      </Daira>
+      <Daira Code="3806" Designation="لرجام">
+        <Communes>
+          <Commune Code="3806" Designation="لرجام" />
+          <Commune Code="3807" Designation="ملعب" />
+          <Commune Code="3808" Designation="سيدي العنتري" />
+          <Commune Code="3819" Designation="تملاحت" />
+        </Communes>
+      </Daira>
+      <Daira Code="3809" Designation="برج الأمير عبد القادر">
+        <Communes>
+          <Commune Code="3809" Designation="برج الأمير عبد القادر" />
+          <Commune Code="3814" Designation="اليوسفية" />
+        </Communes>
+      </Daira>
+      <Daira Code="3811" Designation="خميستي">
+        <Communes>
+          <Commune Code="3810" Designation="العيون" />
+          <Commune Code="3811" Designation="خميستي" />
+        </Communes>
+      </Daira>
+      <Daira Code="3813" Designation="عماري">
+        <Communes>
+          <Commune Code="3813" Designation="عماري" />
+          <Commune Code="3817" Designation="المعاصم" />
+          <Commune Code="3818" Designation="سيدي عابد" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="39" Designation="الوادي">
+    <Dairas>
+      <Daira Code="3901" Designation="الوادي">
+        <Communes>
+          <Commune Code="3901" Designation="الوادي" />
+          <Commune Code="3907" Designation="كوينين" />
+        </Communes>
+      </Daira>
+      <Daira Code="3902" Designation="الرباح">
+        <Communes>
+          <Commune Code="3902" Designation="الرباح" />
+          <Commune Code="3905" Designation="النخلة" />
+          <Commune Code="3925" Designation="العقلة" />
+        </Communes>
+      </Daira>
+      <Daira Code="3904" Designation="البياضة">
+        <Communes>
+          <Commune Code="3904" Designation="البياضة" />
+        </Communes>
+      </Daira>
+      <Daira Code="3906" Designation="قمار">
+        <Communes>
+          <Commune Code="3906" Designation="قمار" />
+          <Commune Code="3910" Designation="تغزوت" />
+          <Commune Code="3920" Designation="ورماس" />
+        </Communes>
+      </Daira>
+      <Daira Code="3908" Designation="الرقيبة">
+        <Communes>
+          <Commune Code="3908" Designation="الرقيبة" />
+          <Commune Code="3909" Designation="الحمراية" />
+        </Communes>
+      </Daira>
+      <Daira Code="3911" Designation="الدبيلة">
+        <Communes>
+          <Commune Code="3911" Designation="الدبيلة" />
+          <Commune Code="3912" Designation="حساني عبد الكريم" />
+        </Communes>
+      </Daira>
+      <Daira Code="3913" Designation="حاسي خليفة">
+        <Communes>
+          <Commune Code="3913" Designation="حاسي خليفة" />
+          <Commune Code="3917" Designation="الطريفاوي" />
+        </Communes>
+      </Daira>
+      <Daira Code="3914" Designation="الطالب العربي">
+        <Communes>
+          <Commune Code="3914" Designation="الطالب العربي" />
+          <Commune Code="3915" Designation="دوار الماء" />
+          <Commune Code="3919" Designation="بن  قشة" />
+        </Communes>
+      </Daira>
+      <Daira Code="3918" Designation="المقرن">
+        <Communes>
+          <Commune Code="3916" Designation="سيدي عون" />
+          <Commune Code="3918" Designation="المقرن" />
+        </Communes>
+      </Daira>
+      <Daira Code="3926" Designation="اميه وانسة">
+        <Communes>
+          <Commune Code="3903" Designation="وادي العلندة" />
+          <Commune Code="3926" Designation="اميه وانسة" />
+        </Communes>
+      </Daira>
+      <Daira Code="3927" Designation="المغير">
+        <Communes>
+          <Commune Code="3921" Designation="سطيل" />
+          <Commune Code="3923" Designation="سيدي خليل" />
+          <Commune Code="3927" Designation="المغير" />
+          <Commune Code="3929" Designation="أم الطيور" />
+        </Communes>
+      </Daira>
+      <Daira Code="3928" Designation="جامعة">
+        <Communes>
+          <Commune Code="3922" Designation="المرارة" />
+          <Commune Code="3924" Designation="تندلة" />
+          <Commune Code="3928" Designation="جامعة" />
+          <Commune Code="3930" Designation="سيدي عمران" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="40" Designation="خنشلة">
+    <Dairas>
+      <Daira Code="4001" Designation="خنشلة">
+        <Communes>
+          <Commune Code="4001" Designation="خنشلة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4003" Designation="قايس">
+        <Communes>
+          <Commune Code="4003" Designation="قايس" />
+          <Commune Code="4007" Designation="تاوزيانت" />
+          <Commune Code="4010" Designation="الرميلة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4005" Designation="الحامة">
+        <Communes>
+          <Commune Code="4004" Designation="بغاي" />
+          <Commune Code="4005" Designation="الحامة" />
+          <Commune Code="4014" Designation="طامزة" />
+          <Commune Code="4015" Designation="انسيغة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4006" Designation="عين الطويلة">
+        <Communes>
+          <Commune Code="4002" Designation="متوسة" />
+          <Commune Code="4006" Designation="عين الطويلة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4008" Designation="بوحمامة">
+        <Communes>
+          <Commune Code="4008" Designation="بوحمامة" />
+          <Commune Code="4018" Designation="مصارة" />
+          <Commune Code="4019" Designation="يابوس" />
+          <Commune Code="4021" Designation="شلية" />
+        </Communes>
+      </Daira>
+      <Daira Code="4011" Designation="ششار">
+        <Communes>
+          <Commune Code="4009" Designation="الولجة" />
+          <Commune Code="4011" Designation="ششار" />
+          <Commune Code="4012" Designation="جلال" />
+          <Commune Code="4020" Designation="خيران" />
+        </Communes>
+      </Daira>
+      <Daira Code="4013" Designation="ببار">
+        <Communes>
+          <Commune Code="4013" Designation="ببار" />
+        </Communes>
+      </Daira>
+      <Daira Code="4016" Designation="أولاد رشاش">
+        <Communes>
+          <Commune Code="4016" Designation="أولاد رشاش" />
+          <Commune Code="4017" Designation="المحمل" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="41" Designation="سوق أهراس">
+    <Dairas>
+      <Daira Code="4101" Designation="سوق أهراس">
+        <Communes>
+          <Commune Code="4101" Designation="سوق أهراس" />
+        </Communes>
+      </Daira>
+      <Daira Code="4102" Designation="سدراتة">
+        <Communes>
+          <Commune Code="4102" Designation="سدراتة" />
+          <Commune Code="4118" Designation="عين السلطان" />
+          <Commune Code="4123" Designation="خميسة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4104" Designation="مشروحة">
+        <Communes>
+          <Commune Code="4103" Designation="الجنانشة" />
+          <Commune Code="4104" Designation="مشروحة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4105" Designation="أولاد إدريس">
+        <Communes>
+          <Commune Code="4105" Designation="أولاد إدريس" />
+          <Commune Code="4117" Designation="عين الزانة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4108" Designation="تاورة">
+        <Communes>
+          <Commune Code="4107" Designation="الزعرورية" />
+          <Commune Code="4108" Designation="تاورة" />
+          <Commune Code="4109" Designation="الدريعة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4110" Designation="الحدادة">
+        <Communes>
+          <Commune Code="4110" Designation="الحدادة" />
+          <Commune Code="4111" Designation="لخضارة" />
+          <Commune Code="4113" Designation="أولاد مومن" />
+        </Communes>
+      </Daira>
+      <Daira Code="4112" Designation="المراهنة">
+        <Communes>
+          <Commune Code="4112" Designation="المراهنة" />
+          <Commune Code="4119" Designation="ويلان" />
+          <Commune Code="4120" Designation="سيدي فرج" />
+        </Communes>
+      </Daira>
+      <Daira Code="4114" Designation="بئر بوحوش">
+        <Communes>
+          <Commune Code="4114" Designation="بئر بوحوش" />
+          <Commune Code="4121" Designation="سافل الويدان" />
+          <Commune Code="4126" Designation="الزوابي" />
+        </Communes>
+      </Daira>
+      <Daira Code="4115" Designation="مداوروش">
+        <Communes>
+          <Commune Code="4106" Designation="تيفاش" />
+          <Commune Code="4115" Designation="مداوروش" />
+          <Commune Code="4122" Designation="الرقوبة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4116" Designation="أم العظايم">
+        <Communes>
+          <Commune Code="4116" Designation="أم العظايم" />
+          <Commune Code="4124" Designation="وادي الكبريت" />
+          <Commune Code="4125" Designation="ترقالت" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="42" Designation="تيبازة">
+    <Dairas>
+      <Daira Code="4201" Designation="تيبازة">
+        <Communes>
+          <Commune Code="4201" Designation="تيبازة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4208" Designation="حجوط">
+        <Communes>
+          <Commune Code="4208" Designation="حجوط" />
+          <Commune Code="4216" Designation="مراد" />
+        </Communes>
+      </Daira>
+      <Daira Code="4209" Designation="سيدي عامر">
+        <Communes>
+          <Commune Code="4202" Designation="مناصر" />
+          <Commune Code="4209" Designation="سيدي عامر" />
+          <Commune Code="4211" Designation="الناظور" />
+        </Communes>
+      </Daira>
+      <Daira Code="4210" Designation="قوراية">
+        <Communes>
+          <Commune Code="4207" Designation="أغبال" />
+          <Commune Code="4210" Designation="قوراية" />
+          <Commune Code="4222" Designation="مسلمون" />
+        </Communes>
+      </Daira>
+      <Daira Code="4214" Designation="شرشال">
+        <Communes>
+          <Commune Code="4214" Designation="شرشال" />
+          <Commune Code="4221" Designation="سيدي غيلاس" />
+          <Commune Code="4226" Designation="سيدي سميان" />
+          <Commune Code="4228" Designation="حجرة النص" />
+        </Communes>
+      </Daira>
+      <Daira Code="4215" Designation="الداموس">
+        <Communes>
+          <Commune Code="4203" Designation="الأرهاط" />
+          <Commune Code="4215" Designation="الداموس" />
+          <Commune Code="4227" Designation="بني ميلك" />
+        </Communes>
+      </Daira>
+      <Daira Code="4217" Designation="فوكة">
+        <Communes>
+          <Commune Code="4204" Designation="دواودة" />
+          <Commune Code="4217" Designation="فوكة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4218" Designation="بواسماعيل">
+        <Communes>
+          <Commune Code="4206" Designation="خميستي" />
+          <Commune Code="4213" Designation="عين تاقورايت" />
+          <Commune Code="4218" Designation="بواسماعيل" />
+          <Commune Code="4220" Designation="بوهارون" />
+        </Communes>
+      </Daira>
+      <Daira Code="4219" Designation="أحمر العين">
+        <Communes>
+          <Commune Code="4205" Designation="بورقيقة" />
+          <Commune Code="4219" Designation="أحمر العين" />
+          <Commune Code="4223" Designation="سيدي راشد" />
+        </Communes>
+      </Daira>
+      <Daira Code="4224" Designation="القليعة">
+        <Communes>
+          <Commune Code="4212" Designation="الشعيبة" />
+          <Commune Code="4224" Designation="القليعة" />
+          <Commune Code="4225" Designation="الحطاطبة" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="43" Designation="ميلة">
+    <Dairas>
+      <Daira Code="4301" Designation="ميلة">
+        <Communes>
+          <Commune Code="4301" Designation="ميلة" />
+          <Commune Code="4325" Designation="عين التين" />
+          <Commune Code="4327" Designation="سيدي خليفة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4302" Designation="فرجيوة">
+        <Communes>
+          <Commune Code="4302" Designation="فرجيوة" />
+          <Commune Code="4331" Designation="يحيى بني قشة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4303" Designation="شلغوم العيد">
+        <Communes>
+          <Commune Code="4303" Designation="شلغوم العيد" />
+          <Commune Code="4304" Designation="وادي العثمانية" />
+          <Commune Code="4305" Designation="عين ملوك" />
+        </Communes>
+      </Daira>
+      <Daira Code="4306" Designation="تلاغمة">
+        <Communes>
+          <Commune Code="4306" Designation="تلاغمة" />
+          <Commune Code="4307" Designation="وادي سقان" />
+          <Commune Code="4326" Designation="المشيرة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4308" Designation="تاجنانت">
+        <Communes>
+          <Commune Code="4308" Designation="تاجنانت" />
+          <Commune Code="4309" Designation="أبن يحيى عبد الرحمن" />
+          <Commune Code="4312" Designation="أولاد خلوف" />
+        </Communes>
+      </Daira>
+      <Daira Code="4310" Designation="وادي النجاء">
+        <Communes>
+          <Commune Code="4310" Designation="وادي النجاء" />
+          <Commune Code="4311" Designation="أحمد راشدي" />
+          <Commune Code="4328" Designation="الزغاية" />
+        </Communes>
+      </Daira>
+      <Daira Code="4314" Designation="بوحاتم">
+        <Communes>
+          <Commune Code="4314" Designation="بوحاتم" />
+          <Commune Code="4320" Designation="دراجي بوصالح" />
+        </Communes>
+      </Daira>
+      <Daira Code="4315" Designation="الرواشد">
+        <Communes>
+          <Commune Code="4313" Designation="تيبرقنت" />
+          <Commune Code="4315" Designation="الرواشد" />
+        </Communes>
+      </Daira>
+      <Daira Code="4317" Designation="قرارم قوقة">
+        <Communes>
+          <Commune Code="4317" Designation="قرارم قوقة" />
+          <Commune Code="4324" Designation="حمالة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4318" Designation="سيدي مروان">
+        <Communes>
+          <Commune Code="4318" Designation="سيدي مروان" />
+          <Commune Code="4332" Designation="السيقارة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4319" Designation="تسادان حدادة">
+        <Communes>
+          <Commune Code="4319" Designation="تسادان حدادة" />
+          <Commune Code="4321" Designation="مينار زرزة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4323" Designation="ترعي بايبان">
+        <Communes>
+          <Commune Code="4316" Designation="تسالة المطاعي" />
+          <Commune Code="4322" Designation="عميرة أراس" />
+          <Commune Code="4323" Designation="ترعي بايبان" />
+        </Communes>
+      </Daira>
+      <Daira Code="4330" Designation="عين البيضاء حريش">
+        <Communes>
+          <Commune Code="4329" Designation="العيادي برباس" />
+          <Commune Code="4330" Designation="عين البيضاء حريش" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="44" Designation="عين الدفلة">
+    <Dairas>
+      <Daira Code="4401" Designation="عين الدفلة">
+        <Communes>
+          <Commune Code="4401" Designation="عين الدفلة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4402" Designation="مليانة">
+        <Communes>
+          <Commune Code="4402" Designation="مليانة" />
+          <Commune Code="4425" Designation="إبن علال" />
+        </Communes>
+      </Daira>
+      <Daira Code="4403" Designation="بومدفع">
+        <Communes>
+          <Commune Code="4403" Designation="بومدفع" />
+          <Commune Code="4427" Designation="الحسينية" />
+        </Communes>
+      </Daira>
+      <Daira Code="4404" Designation="خميس مليانة">
+        <Communes>
+          <Commune Code="4404" Designation="خميس مليانة" />
+          <Commune Code="4424" Designation="سيدي الأخضر" />
+        </Communes>
+      </Daira>
+      <Daira Code="4405" Designation="حمام ريغة">
+        <Communes>
+          <Commune Code="4405" Designation="حمام ريغة" />
+          <Commune Code="4423" Designation="عين الترك" />
+          <Commune Code="4426" Designation="عين البنيان" />
+        </Communes>
+      </Daira>
+      <Daira Code="4407" Designation="جليدة">
+        <Communes>
+          <Commune Code="4407" Designation="جليدة" />
+          <Commune Code="4409" Designation="بوراشد" />
+          <Commune Code="4429" Designation="جمعة أولاد الشيخ" />
+        </Communes>
+      </Daira>
+      <Daira Code="4408" Designation="العامرة">
+        <Communes>
+          <Commune Code="4406" Designation="عريب" />
+          <Commune Code="4408" Designation="العامرة" />
+          <Commune Code="4430" Designation="المخاطرية" />
+        </Communes>
+      </Daira>
+      <Daira Code="4410" Designation="العطاف">
+        <Communes>
+          <Commune Code="4410" Designation="العطاف" />
+          <Commune Code="4435" Designation="تبركانين" />
+        </Communes>
+      </Daira>
+      <Daira Code="4411" Designation="العبادية">
+        <Communes>
+          <Commune Code="4411" Designation="العبادية" />
+          <Commune Code="4432" Designation="تاشتة زقاغة" />
+          <Commune Code="4433" Designation="عين بويحيى" />
+        </Communes>
+      </Daira>
+      <Daira Code="4412" Designation="جندل">
+        <Communes>
+          <Commune Code="4412" Designation="جندل" />
+          <Commune Code="4413" Designation="وادي الشرفاء" />
+          <Commune Code="4428" Designation="بربوش" />
+        </Communes>
+      </Daira>
+      <Daira Code="4414" Designation="عين الاشياخ">
+        <Communes>
+          <Commune Code="4414" Designation="عين الاشياخ" />
+          <Commune Code="4415" Designation="وادي جمعة" />
+          <Commune Code="4420" Designation="عين السلطان" />
+        </Communes>
+      </Daira>
+      <Daira Code="4416" Designation="روينة">
+        <Communes>
+          <Commune Code="4416" Designation="روينة" />
+          <Commune Code="4417" Designation="زدين" />
+          <Commune Code="4434" Designation="الماين" />
+        </Communes>
+      </Daira>
+      <Daira Code="4422" Designation="برج الأمير خالد">
+        <Communes>
+          <Commune Code="4419" Designation="بئر ولد خليفة" />
+          <Commune Code="4421" Designation="طارق بن زياد" />
+          <Commune Code="4422" Designation="برج الأمير خالد" />
+        </Communes>
+      </Daira>
+      <Daira Code="4431" Designation="بطحية">
+        <Communes>
+          <Commune Code="4418" Designation="الحسانية" />
+          <Commune Code="4431" Designation="بطحية" />
+          <Commune Code="4436" Designation="بالعاص" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="45" Designation="النعامة">
+    <Dairas>
+      <Daira Code="4501" Designation="النعامة">
+        <Communes>
+          <Commune Code="4501" Designation="النعامة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4502" Designation="مشرية">
+        <Communes>
+          <Commune Code="4502" Designation="مشرية" />
+          <Commune Code="4509" Designation="عين بن خليل" />
+          <Commune Code="4512" Designation="البيوض" />
+        </Communes>
+      </Daira>
+      <Daira Code="4503" Designation="عين الصفراء">
+        <Communes>
+          <Commune Code="4503" Designation="عين الصفراء" />
+          <Commune Code="4504" Designation="تيوت" />
+        </Communes>
+      </Daira>
+      <Daira Code="4505" Designation="سفيسيفة">
+        <Communes>
+          <Commune Code="4505" Designation="سفيسيفة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4506" Designation="مغرار">
+        <Communes>
+          <Commune Code="4506" Designation="مغرار" />
+          <Commune Code="4508" Designation="جنين بورزق" />
+        </Communes>
+      </Daira>
+      <Daira Code="4507" Designation="عسلة">
+        <Communes>
+          <Commune Code="4507" Designation="عسلة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4510" Designation="مكمن بن عمرو">
+        <Communes>
+          <Commune Code="4510" Designation="مكمن بن عمرو" />
+          <Commune Code="4511" Designation="قصدير" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="46" Designation="عين تيموشنت">
+    <Dairas>
+      <Daira Code="4601" Designation="عين تيموشنت">
+        <Communes>
+          <Commune Code="4601" Designation="عين تيموشنت" />
+          <Commune Code="4612" Designation="سيدي بن عدة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4604" Designation="حمام بوحجر">
+        <Communes>
+          <Commune Code="4604" Designation="حمام بوحجر" />
+          <Commune Code="4606" Designation="وادي برقش" />
+          <Commune Code="4611" Designation="شنتوف" />
+          <Commune Code="4621" Designation="الحساسنة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4609" Designation="عين الأربعاء">
+        <Communes>
+          <Commune Code="4609" Designation="عين الأربعاء" />
+          <Commune Code="4610" Designation="تامزورة" />
+          <Commune Code="4615" Designation="سيدي بومدين" />
+          <Commune Code="4616" Designation="وادي الصباح" />
+        </Communes>
+      </Daira>
+      <Daira Code="4614" Designation="المالح">
+        <Communes>
+          <Commune Code="4602" Designation="شعبة اللحم" />
+          <Commune Code="4608" Designation="تارقة" />
+          <Commune Code="4614" Designation="المالح" />
+          <Commune Code="4622" Designation="عين الكحيل" />
+        </Communes>
+      </Daira>
+      <Daira Code="4619" Designation="العامرية">
+        <Communes>
+          <Commune Code="4605" Designation="بوزجار" />
+          <Commune Code="4617" Designation="أولاد بوجمعة" />
+          <Commune Code="4619" Designation="العامرية" />
+          <Commune Code="4620" Designation="حاسي الغلة" />
+          <Commune Code="4628" Designation="المساعيد" />
+        </Communes>
+      </Daira>
+      <Daira Code="4622" Designation="أولاد كحيل">
+        <Communes>
+          <Commune Code="4603" Designation="أولاد كحيل" />
+          <Commune Code="4607" Designation="أغلال" />
+          <Commune Code="4613" Designation="عقب الليل" />
+          <Commune Code="4618" Designation="عين الطلبة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4623" Designation="بني صاف">
+        <Communes>
+          <Commune Code="4623" Designation="بني صاف" />
+          <Commune Code="4624" Designation="سيدي الصافي" />
+          <Commune Code="4627" Designation="الأمير عبد القادر" />
+        </Communes>
+      </Daira>
+      <Daira Code="4625" Designation="ولهاصة الغرابة">
+        <Communes>
+          <Commune Code="4625" Designation="ولهاصة الغرابة" />
+          <Commune Code="4626" Designation="سيدي أورياش" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="47" Designation="غرداية">
+    <Dairas>
+      <Daira Code="4701" Designation="غرداية">
+        <Communes>
+          <Commune Code="4701" Designation="غرداية" />
+        </Communes>
+      </Daira>
+      <Daira Code="4702" Designation="المنيعة">
+        <Communes>
+          <Commune Code="4702" Designation="المنيعة" />
+          <Commune Code="4712" Designation="حاسي القارة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4703" Designation="ضاية بن ضحوة">
+        <Communes>
+          <Commune Code="4703" Designation="ضاية بن ضحوة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4704" Designation="بريان">
+        <Communes>
+          <Commune Code="4704" Designation="بريان" />
+        </Communes>
+      </Daira>
+      <Daira Code="4705" Designation="منليلي">
+        <Communes>
+          <Commune Code="4705" Designation="منليلي" />
+          <Commune Code="4709" Designation="سبسب" />
+        </Communes>
+      </Daira>
+      <Daira Code="4706" Designation="القرارة">
+        <Communes>
+          <Commune Code="4706" Designation="القرارة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4708" Designation="رلفانة">
+        <Communes>
+          <Commune Code="4708" Designation="رلفانة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4710" Designation="بونورة">
+        <Communes>
+          <Commune Code="4707" Designation="العطف" />
+          <Commune Code="4710" Designation="بونورة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4713" Designation="المنصورة">
+        <Communes>
+          <Commune Code="4711" Designation="حاسي الفحل" />
+          <Commune Code="4713" Designation="المنصورة" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+  <Wilaya Code="48" Designation="غليزان">
+    <Dairas>
+      <Daira Code="4801" Designation="غليزان">
+        <Communes>
+          <Commune Code="4801" Designation="غليزان" />
+          <Commune Code="4835" Designation="بن داود" />
+        </Communes>
+      </Daira>
+      <Daira Code="4802" Designation="وادي رهيو">
+        <Communes>
+          <Commune Code="4802" Designation="وادي رهيو" />
+          <Commune Code="4821" Designation="واريزان" />
+          <Commune Code="4829" Designation="لحلاف" />
+          <Commune Code="4837" Designation="مرجة سيدي عابد" />
+        </Communes>
+      </Daira>
+      <Daira Code="4807" Designation="الحمادنة">
+        <Communes>
+          <Commune Code="4807" Designation="الحمادنة" />
+          <Commune Code="4826" Designation="وادي الجمعة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4808" Designation="سيدي أمحمد بن علي">
+        <Communes>
+          <Commune Code="4808" Designation="سيدي أمحمد بن علي" />
+          <Commune Code="4809" Designation="مديونة" />
+          <Commune Code="4830" Designation="بني زنطيس" />
+        </Communes>
+      </Daira>
+      <Daira Code="4811" Designation="عمي موسى">
+        <Communes>
+          <Commune Code="4805" Designation="أولاد يعيش" />
+          <Commune Code="4811" Designation="عمي موسى" />
+          <Commune Code="4833" Designation="الحاسي" />
+          <Commune Code="4836" Designation="الولجة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4812" Designation="زمورة">
+        <Communes>
+          <Commune Code="4812" Designation="زمورة" />
+          <Commune Code="4813" Designation="بني درقن" />
+          <Commune Code="4832" Designation="دار بن عبد الله" />
+        </Communes>
+      </Daira>
+      <Daira Code="4814" Designation="جديوية">
+        <Communes>
+          <Commune Code="4814" Designation="جديوية" />
+          <Commune Code="4816" Designation="حمري" />
+          <Commune Code="4838" Designation="أولاد سيدي الميهوب" />
+        </Communes>
+      </Daira>
+      <Daira Code="4817" Designation="المطمر">
+        <Communes>
+          <Commune Code="4803" Designation="بلعسل بوزقزة" />
+          <Commune Code="4810" Designation="سيدي  خطاب" />
+          <Commune Code="4817" Designation="المطمر" />
+          <Commune Code="4818" Designation="سيدي امحمد بن عودة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4819" Designation="عين طارق">
+        <Communes>
+          <Commune Code="4819" Designation="عين طارق" />
+          <Commune Code="4834" Designation="حد الشكالة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4822" Designation="مازونة">
+        <Communes>
+          <Commune Code="4815" Designation="القطار" />
+          <Commune Code="4822" Designation="مازونة" />
+        </Communes>
+      </Daira>
+      <Daira Code="4825" Designation="يلل">
+        <Communes>
+          <Commune Code="4804" Designation="سيدي سعادة" />
+          <Commune Code="4823" Designation="القلعة" />
+          <Commune Code="4824" Designation="عين الرحمة" />
+          <Commune Code="4825" Designation="يلل" />
+        </Communes>
+      </Daira>
+      <Daira Code="4827" Designation="الرمكة">
+        <Communes>
+          <Commune Code="4827" Designation="الرمكة" />
+          <Commune Code="4831" Designation="سوق الحد" />
+        </Communes>
+      </Daira>
+      <Daira Code="4828" Designation="منداس">
+        <Communes>
+          <Commune Code="4806" Designation="سيدي لزرق" />
+          <Commune Code="4820" Designation="وادي السلام" />
+          <Commune Code="4828" Designation="منداس" />
+        </Communes>
+      </Daira>
+    </Dairas>
+  </Wilaya>
+</Wilayas>
